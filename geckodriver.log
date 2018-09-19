@@ -1,0 +1,1026 @@
+1535690138177	geckodriver	INFO	geckodriver 0.18.0
+1535690138180	geckodriver	INFO	Listening on 127.0.0.1:50931
+1535690139346	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:7211): Gtk-WARNING **: 10:05:40.448: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:7331): Gtk-WARNING **: 10:05:50.401: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:7393): Gtk-WARNING **: 10:05:52.189: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535690152344	Marionette	INFO	Listening on port 37647
+1535690152461	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7211, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1535690375446	geckodriver	INFO	geckodriver 0.18.0
+1535690375449	geckodriver	INFO	Listening on 127.0.0.1:39649
+1535690376584	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:7799): Gtk-WARNING **: 10:09:36.624: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:7882): Gtk-WARNING **: 10:09:39.185: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535690379685	Marionette	INFO	Listening on port 42369
+1535690379702	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7941): Gtk-WARNING **: 10:09:40.186: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535690720284	geckodriver	INFO	geckodriver 0.18.0
+1535690720287	geckodriver	INFO	Listening on 127.0.0.1:47555
+1535690721429	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:8348): Gtk-WARNING **: 10:15:21.468: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:8430): Gtk-WARNING **: 10:15:23.923: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535690724377	Marionette	INFO	Listening on port 45811
+1535690724441	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8483): Gtk-WARNING **: 10:15:24.947: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8430, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535691020075	geckodriver	INFO	geckodriver 0.18.0
+1535691020078	geckodriver	INFO	Listening on 127.0.0.1:48685
+1535691021226	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:8910): Gtk-WARNING **: 10:20:21.270: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:8995): Gtk-WARNING **: 10:20:23.736: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535691024215	Marionette	INFO	Listening on port 38029
+1535691024243	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9054): Gtk-WARNING **: 10:20:24.780: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535691327648	geckodriver	INFO	geckodriver 0.18.0
+1535691327651	geckodriver	INFO	Listening on 127.0.0.1:51177
+1535691328802	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:9422): Gtk-WARNING **: 10:25:28.842: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:9505): Gtk-WARNING **: 10:25:31.379: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535691331854	Marionette	INFO	Listening on port 39371
+1535691331915	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9560): Gtk-WARNING **: 10:25:32.447: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535691560457	geckodriver	INFO	geckodriver 0.18.0
+1535691560460	geckodriver	INFO	Listening on 127.0.0.1:42033
+1535691561611	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:9965): Gtk-WARNING **: 10:29:21.651: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:10044): Gtk-WARNING **: 10:29:24.108: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535691564581	Marionette	INFO	Listening on port 35787
+1535691564638	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10101): Gtk-WARNING **: 10:29:25.183: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535691665226	geckodriver	INFO	geckodriver 0.18.0
+1535691665229	geckodriver	INFO	Listening on 127.0.0.1:43103
+1535691666375	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:10469): Gtk-WARNING **: 10:31:06.416: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:10558): Gtk-WARNING **: 10:31:09.439: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535691669931	Marionette	INFO	Listening on port 46749
+1535691669990	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:10611): Gtk-WARNING **: 10:31:10.456: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535692351385	geckodriver	INFO	geckodriver 0.18.0
+1535692351388	geckodriver	INFO	Listening on 127.0.0.1:53751
+1535692352532	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:11144): Gtk-WARNING **: 10:42:32.577: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:11230): Gtk-WARNING **: 10:42:35.448: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535692355933	Marionette	INFO	Listening on port 35455
+1535692355949	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11288): Gtk-WARNING **: 10:42:36.499: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535692471065	geckodriver	INFO	geckodriver 0.18.0
+1535692471068	geckodriver	INFO	Listening on 127.0.0.1:47775
+1535692472221	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:11615): Gtk-WARNING **: 10:44:32.260: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:11700): Gtk-WARNING **: 10:44:34.769: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535692475242	Marionette	INFO	Listening on port 42679
+1535692475335	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:11756): Gtk-WARNING **: 10:44:35.776: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535692678260	geckodriver	INFO	geckodriver 0.18.0
+1535692678263	geckodriver	INFO	Listening on 127.0.0.1:38345
+1535692679409	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:12122): Gtk-WARNING **: 10:47:59.452: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:12201): Gtk-WARNING **: 10:48:01.858: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535692682321	Marionette	INFO	Listening on port 36377
+1535692682428	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:12257): Gtk-WARNING **: 10:48:02.904: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693148653	geckodriver	INFO	geckodriver 0.18.0
+1535693148656	geckodriver	INFO	Listening on 127.0.0.1:41579
+1535693149803	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:12907): Gtk-WARNING **: 10:55:49.842: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:12991): Gtk-WARNING **: 10:55:52.221: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693152721	Marionette	INFO	Listening on port 46171
+1535693152826	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13049): Gtk-WARNING **: 10:55:53.189: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693271203	geckodriver	INFO	geckodriver 0.18.0
+1535693271206	geckodriver	INFO	Listening on 127.0.0.1:40883
+1535693272353	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:13384): Gtk-WARNING **: 10:57:52.395: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:13477): Gtk-WARNING **: 10:57:54.793: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693275269	Marionette	INFO	Listening on port 32999
+1535693275368	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:13530): Gtk-WARNING **: 10:57:55.764: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693441904	geckodriver	INFO	geckodriver 0.18.0
+1535693441907	geckodriver	INFO	Listening on 127.0.0.1:35113
+1535693443050	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:13910): Gtk-WARNING **: 11:00:43.096: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:13991): Gtk-WARNING **: 11:00:45.735: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693446248	Marionette	INFO	Listening on port 36315
+1535693446278	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14049): Gtk-WARNING **: 11:00:46.754: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693510795	geckodriver	INFO	geckodriver 0.18.0
+1535693510799	geckodriver	INFO	Listening on 127.0.0.1:34145
+1535693511951	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:14192): Gtk-WARNING **: 11:01:51.998: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:14279): Gtk-WARNING **: 11:01:54.518: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693514982	Marionette	INFO	Listening on port 42661
+1535693515065	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14336): Gtk-WARNING **: 11:01:55.576: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693580454	geckodriver	INFO	geckodriver 0.18.0
+1535693580457	geckodriver	INFO	Listening on 127.0.0.1:42207
+1535693581607	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:14641): Gtk-WARNING **: 11:03:01.651: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:14726): Gtk-WARNING **: 11:03:04.155: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693584639	Marionette	INFO	Listening on port 32781
+1535693584722	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:14785): Gtk-WARNING **: 11:03:05.198: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693692663	geckodriver	INFO	geckodriver 0.18.0
+1535693692666	geckodriver	INFO	Listening on 127.0.0.1:39663
+1535693693817	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:14931): Gtk-WARNING **: 11:04:53.857: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:15014): Gtk-WARNING **: 11:04:56.277: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693696740	Marionette	INFO	Listening on port 46005
+1535693696841	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15073): Gtk-WARNING **: 11:04:57.334: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693766574	geckodriver	INFO	geckodriver 0.18.0
+1535693766577	geckodriver	INFO	Listening on 127.0.0.1:50473
+1535693767728	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:15366): Gtk-WARNING **: 11:06:07.768: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:15444): Gtk-WARNING **: 11:06:10.337: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693770835	Marionette	INFO	Listening on port 45417
+1535693770843	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:15501): Gtk-WARNING **: 11:06:11.371: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693959518	geckodriver	INFO	geckodriver 0.18.0
+1535693959521	geckodriver	INFO	Listening on 127.0.0.1:39023
+1535693960664	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:15862): Gtk-WARNING **: 11:09:20.708: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:15948): Gtk-WARNING **: 11:09:23.267: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535693963778	Marionette	INFO	Listening on port 34349
+1535693963877	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16000): Gtk-WARNING **: 11:09:24.274: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694036091	geckodriver	INFO	geckodriver 0.18.0
+1535694036094	geckodriver	INFO	Listening on 127.0.0.1:39849
+1535694037237	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:16337): Gtk-WARNING **: 11:10:37.276: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:16422): Gtk-WARNING **: 11:10:40.179: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694040649	Marionette	INFO	Listening on port 38105
+1535694040763	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16483): Gtk-WARNING **: 11:10:41.177: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694118417	geckodriver	INFO	geckodriver 0.18.0
+1535694118420	geckodriver	INFO	Listening on 127.0.0.1:43529
+1535694119571	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:16847): Gtk-WARNING **: 11:11:59.610: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:16929): Gtk-WARNING **: 11:12:02.099: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694122560	Marionette	INFO	Listening on port 43681
+1535694122593	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16988): Gtk-WARNING **: 11:12:03.152: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694177881	geckodriver	INFO	geckodriver 0.18.0
+1535694177885	geckodriver	INFO	Listening on 127.0.0.1:48695
+1535694179030	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:17289): Gtk-WARNING **: 11:12:59.069: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:17377): Gtk-WARNING **: 11:13:01.844: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694182314	Marionette	INFO	Listening on port 39307
+1535694182344	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17431): Gtk-WARNING **: 11:13:02.874: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694238066	geckodriver	INFO	geckodriver 0.18.0
+1535694238069	geckodriver	INFO	Listening on 127.0.0.1:37917
+1535694239221	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:17788): Gtk-WARNING **: 11:13:59.261: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:17872): Gtk-WARNING **: 11:14:01.773: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694242264	Marionette	INFO	Listening on port 37941
+1535694242334	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:17930): Gtk-WARNING **: 11:14:02.801: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1535694496914	geckodriver	INFO	geckodriver 0.18.0
+1535694496917	geckodriver	INFO	Listening on 127.0.0.1:42161
+1535694498058	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:18452): Gtk-WARNING **: 11:18:18.106: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:18536): Gtk-WARNING **: 11:18:20.995: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694501479	Marionette	INFO	Listening on port 38605
+1535694501585	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18593): Gtk-WARNING **: 11:18:21.995: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694619395	geckodriver	INFO	geckodriver 0.18.0
+1535694619398	geckodriver	INFO	Listening on 127.0.0.1:41531
+1535694620545	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:18897): Gtk-WARNING **: 11:20:20.588: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:18983): Gtk-WARNING **: 11:20:23.360: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694623830	Marionette	INFO	Listening on port 42153
+1535694623864	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:19041): Gtk-WARNING **: 11:20:24.373: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694922357	geckodriver	INFO	geckodriver 0.18.0
+1535694922360	geckodriver	INFO	Listening on 127.0.0.1:54373
+1535694923501	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:20382): Gtk-WARNING **: 11:25:23.540: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:20464): Gtk-WARNING **: 11:25:26.474: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535694926956	Marionette	INFO	Listening on port 36469
+1535694927016	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:20523): Gtk-WARNING **: 11:25:27.514: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695014921	geckodriver	INFO	geckodriver 0.18.0
+1535695014925	geckodriver	INFO	Listening on 127.0.0.1:33389
+1535695016071	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:21195): Gtk-WARNING **: 11:26:56.111: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:21276): Gtk-WARNING **: 11:26:58.695: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695019198	Marionette	INFO	Listening on port 44979
+1535695019285	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21331): Gtk-WARNING **: 11:26:59.704: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695067794	geckodriver	INFO	geckodriver 0.18.0
+1535695067797	geckodriver	INFO	Listening on 127.0.0.1:38475
+1535695068945	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:21630): Gtk-WARNING **: 11:27:48.984: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:21715): Gtk-WARNING **: 11:27:51.599: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695072049	Marionette	INFO	Listening on port 41531
+1535695072062	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:21772): Gtk-WARNING **: 11:27:52.616: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695122959	geckodriver	INFO	geckodriver 0.18.0
+1535695122962	geckodriver	INFO	Listening on 127.0.0.1:47083
+1535695124107	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:22097): Gtk-WARNING **: 11:28:44.153: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:22191): Gtk-WARNING **: 11:28:46.525: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695127003	Marionette	INFO	Listening on port 42959
+1535695127025	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:22247): Gtk-WARNING **: 11:28:47.508: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695283061	geckodriver	INFO	geckodriver 0.18.0
+1535695283064	geckodriver	INFO	Listening on 127.0.0.1:34401
+1535695284208	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:23484): Gtk-WARNING **: 11:31:24.247: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:23572): Gtk-WARNING **: 11:31:26.702: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695287174	Marionette	INFO	Listening on port 41409
+1535695287220	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:23634): Gtk-WARNING **: 11:31:27.760: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695388694	geckodriver	INFO	geckodriver 0.18.0
+1535695388697	geckodriver	INFO	Listening on 127.0.0.1:37023
+1535695389839	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:23948): Gtk-WARNING **: 11:33:09.885: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:24067): Gtk-WARNING **: 11:33:12.502: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695392995	Marionette	INFO	Listening on port 41843
+1535695393056	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24122): Gtk-WARNING **: 11:33:13.563: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695395374	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+[Child 24067, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2D00CD,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1535695421641	geckodriver	INFO	geckodriver 0.18.0
+1535695421644	geckodriver	INFO	Listening on 127.0.0.1:35243
+1535695422788	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:24402): Gtk-WARNING **: 11:33:42.828: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:24487): Gtk-WARNING **: 11:33:45.243: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695425742	Marionette	INFO	Listening on port 41721
+1535695425806	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24541): Gtk-WARNING **: 11:33:46.233: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695488204	geckodriver	INFO	geckodriver 0.18.0
+1535695488207	geckodriver	INFO	Listening on 127.0.0.1:33381
+1535695489390	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:24832): Gtk-WARNING **: 11:34:49.434: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:24924): Gtk-WARNING **: 11:34:52.021: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695492530	Marionette	INFO	Listening on port 38569
+1535695492603	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:24983): Gtk-WARNING **: 11:34:53.046: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695520853	geckodriver	INFO	geckodriver 0.18.0
+1535695520856	geckodriver	INFO	Listening on 127.0.0.1:33147
+1535695522003	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:25276): Gtk-WARNING **: 11:35:22.047: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:25361): Gtk-WARNING **: 11:35:24.479: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695524967	Marionette	INFO	Listening on port 34379
+1535695525015	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25420): Gtk-WARNING **: 11:35:25.495: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695559815	geckodriver	INFO	geckodriver 0.18.0
+1535695559818	geckodriver	INFO	Listening on 127.0.0.1:41717
+1535695560961	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:25718): Gtk-WARNING **: 11:36:01.002: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:25803): Gtk-WARNING **: 11:36:03.482: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695563932	Marionette	INFO	Listening on port 41273
+1535695563981	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:25859): Gtk-WARNING **: 11:36:04.532: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25803, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535695598953	geckodriver	INFO	geckodriver 0.18.0
+1535695598956	geckodriver	INFO	Listening on 127.0.0.1:56099
+1535695600100	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:26151): Gtk-WARNING **: 11:36:40.140: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:26235): Gtk-WARNING **: 11:36:42.635: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695603093	Marionette	INFO	Listening on port 35201
+1535695603117	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26290): Gtk-WARNING **: 11:36:43.639: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695684436	geckodriver	INFO	geckodriver 0.18.0
+1535695684439	geckodriver	INFO	Listening on 127.0.0.1:56805
+1535695685582	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:26594): Gtk-WARNING **: 11:38:05.626: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:26683): Gtk-WARNING **: 11:38:08.716: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695689206	Marionette	INFO	Listening on port 38989
+1535695689313	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:26742): Gtk-WARNING **: 11:38:09.749: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695751698	geckodriver	INFO	geckodriver 0.18.0
+1535695751701	geckodriver	INFO	Listening on 127.0.0.1:57577
+1535695752845	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:27080): Gtk-WARNING **: 11:39:12.883: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:27165): Gtk-WARNING **: 11:39:15.571: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695756038	Marionette	INFO	Listening on port 35483
+1535695756070	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27222): Gtk-WARNING **: 11:39:16.581: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695804337	geckodriver	INFO	geckodriver 0.18.0
+1535695804340	geckodriver	INFO	Listening on 127.0.0.1:47451
+1535695805489	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:27516): Gtk-WARNING **: 11:40:05.528: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:27604): Gtk-WARNING **: 11:40:08.066: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695808507	Marionette	INFO	Listening on port 43503
+1535695808602	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:27663): Gtk-WARNING **: 11:40:09.105: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+[Child 27604, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535695924406	geckodriver	INFO	geckodriver 0.18.0
+1535695924424	geckodriver	INFO	Listening on 127.0.0.1:45693
+1535695925820	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:27972): Gtk-WARNING **: 11:42:05.970: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:28055): Gtk-WARNING **: 11:42:11.326: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:28111): Gtk-WARNING **: 11:42:13.448: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535695933691	Marionette	INFO	Listening on port 42579
+1535695933807	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 28055, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 28055, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535697028071	geckodriver	INFO	geckodriver 0.18.0
+1535697028092	geckodriver	INFO	Listening on 127.0.0.1:45187
+1535697029557	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:28731): Gtk-WARNING **: 12:00:29.734: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:28829): Gtk-WARNING **: 12:00:35.279: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:28882): Gtk-WARNING **: 12:00:37.422: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535697037696	Marionette	INFO	Listening on port 38057
+1535697037807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535697262597	geckodriver	INFO	geckodriver 0.18.0
+1535697262600	geckodriver	INFO	Listening on 127.0.0.1:37521
+1535697263801	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:29372): Gtk-WARNING **: 12:04:23.847: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:29457): Gtk-WARNING **: 12:04:26.399: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535697266890	Marionette	INFO	Listening on port 40131
+1535697266924	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29511): Gtk-WARNING **: 12:04:27.446: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+[Child 29457, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535697876551	geckodriver	INFO	geckodriver 0.18.0
+1535697876555	geckodriver	INFO	Listening on 127.0.0.1:56319
+1535697877723	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+
+(firefox:30131): Gtk-WARNING **: 12:14:37.766: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+
+(/usr/lib/firefox/firefox:30217): Gtk-WARNING **: 12:14:41.211: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535697881688	Marionette	INFO	Listening on port 37531
+1535697881747	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:30274): Gtk-WARNING **: 12:14:42.213: Theme parsing error: gtk-main.css:73:38: Failed to import: Error opening file /usr/share/themes/Radiance/gtk-3.20/apps/gnome-builder.css: No such file or directory
+1535698366782	geckodriver	INFO	geckodriver 0.18.0
+1535698366789	geckodriver	INFO	Listening on 127.0.0.1:36075
+1535698367927	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535698371518	Marionette	INFO	Listening on port 33711
+1535698371560	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gdk-Message: 12:22:55.753: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+Gdk-Message: 12:22:55.753: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1535698436877	geckodriver	INFO	geckodriver 0.18.0
+1535698436884	geckodriver	INFO	Listening on 127.0.0.1:52003
+1535698438034	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535698441218	Marionette	INFO	Listening on port 39609
+1535698441249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535698689253	geckodriver	INFO	geckodriver 0.18.0
+1535698689258	geckodriver	INFO	Listening on 127.0.0.1:37481
+1535698690411	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535698693513	Marionette	INFO	Listening on port 33241
+1535698693524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535698795883	geckodriver	INFO	geckodriver 0.18.0
+1535698795896	geckodriver	INFO	Listening on 127.0.0.1:51953
+1535698797033	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535698800084	Marionette	INFO	Listening on port 35477
+1535698800145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535698913504	geckodriver	INFO	geckodriver 0.18.0
+1535698913511	geckodriver	INFO	Listening on 127.0.0.1:41987
+1535698914660	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535698917670	Marionette	INFO	Listening on port 38207
+1535698917789	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 895, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535699023229	geckodriver	INFO	geckodriver 0.18.0
+1535699023238	geckodriver	INFO	Listening on 127.0.0.1:37335
+1535699024384	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535699027524	Marionette	INFO	Listening on port 38129
+1535699027595	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1616, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535699109842	geckodriver	INFO	geckodriver 0.18.0
+1535699109848	geckodriver	INFO	Listening on 127.0.0.1:47455
+1535699110983	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535699114064	Marionette	INFO	Listening on port 37019
+1535699114101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535699162751	geckodriver	INFO	geckodriver 0.18.0
+1535699162760	geckodriver	INFO	Listening on 127.0.0.1:43787
+1535699163903	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535699166993	Marionette	INFO	Listening on port 40435
+1535699167019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535699216641	geckodriver	INFO	geckodriver 0.18.0
+1535699216644	geckodriver	INFO	Listening on 127.0.0.1:49199
+1535699217787	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535699220942	Marionette	INFO	Listening on port 41623
+1535699220999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535700307934	geckodriver	INFO	geckodriver 0.18.0
+1535700307940	geckodriver	INFO	Listening on 127.0.0.1:58693
+1535700309095	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700312347	Marionette	INFO	Listening on port 38673
+1535700312415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535700336378	geckodriver	INFO	geckodriver 0.18.0
+1535700336388	geckodriver	INFO	Listening on 127.0.0.1:44525
+1535700337531	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700340614	Marionette	INFO	Listening on port 41211
+1535700340654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535700414212	geckodriver	INFO	geckodriver 0.18.0
+1535700414220	geckodriver	INFO	Listening on 127.0.0.1:45377
+1535700415354	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700418403	Marionette	INFO	Listening on port 39701
+1535700418466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535700428491	geckodriver	INFO	geckodriver 0.18.0
+1535700428498	geckodriver	INFO	Listening on 127.0.0.1:38889
+1535700429640	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700433146	Marionette	INFO	Listening on port 35863
+1535700433155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535700485982	geckodriver	INFO	geckodriver 0.18.0
+1535700485990	geckodriver	INFO	Listening on 127.0.0.1:36543
+1535700487126	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700490187	Marionette	INFO	Listening on port 35943
+1535700490239	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8451, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535700574998	geckodriver	INFO	geckodriver 0.18.0
+1535700575008	geckodriver	INFO	Listening on 127.0.0.1:53355
+1535700576180	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700579106	Marionette	INFO	Listening on port 33101
+1535700579212	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8950, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535700672970	geckodriver	INFO	geckodriver 0.18.0
+1535700672981	geckodriver	INFO	Listening on 127.0.0.1:42503
+1535700674110	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700677523	Marionette	INFO	Listening on port 43089
+1535700677626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535700706478	geckodriver	INFO	geckodriver 0.18.0
+1535700706484	geckodriver	INFO	Listening on 127.0.0.1:59567
+1535700707610	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700710738	Marionette	INFO	Listening on port 44865
+1535700710829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535700716408	geckodriver	INFO	geckodriver 0.18.0
+1535700716417	geckodriver	INFO	Listening on 127.0.0.1:46199
+1535700717568	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700720647	Marionette	INFO	Listening on port 39295
+1535700720682	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10080, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1535700748025	geckodriver	INFO	geckodriver 0.18.0
+1535700748033	geckodriver	INFO	Listening on 127.0.0.1:56047
+1535700749200	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700752090	Marionette	INFO	Listening on port 42233
+1535700752127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535700801083	geckodriver	INFO	geckodriver 0.18.0
+1535700801093	geckodriver	INFO	Listening on 127.0.0.1:35963
+1535700802229	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535700805156	Marionette	INFO	Listening on port 40597
+1535700805255	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10987, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535703296156	geckodriver	INFO	geckodriver 0.18.0
+1535703296159	geckodriver	INFO	Listening on 127.0.0.1:57785
+1535703297284	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535703300306	Marionette	INFO	Listening on port 43457
+1535703300395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535703349229	geckodriver	INFO	geckodriver 0.18.0
+1535703349236	geckodriver	INFO	Listening on 127.0.0.1:55627
+1535703350384	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535703353660	Marionette	INFO	Listening on port 37787
+1535703353698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535703439245	geckodriver	INFO	geckodriver 0.18.0
+1535703439249	geckodriver	INFO	Listening on 127.0.0.1:45179
+1535703440394	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535703443516	Marionette	INFO	Listening on port 43639
+1535703443605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535703498372	geckodriver	INFO	geckodriver 0.18.0
+1535703498377	geckodriver	INFO	Listening on 127.0.0.1:44649
+1535703499533	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535703502752	Marionette	INFO	Listening on port 46047
+1535703502853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535704627067	geckodriver	INFO	geckodriver 0.18.0
+1535704627070	geckodriver	INFO	Listening on 127.0.0.1:40759
+1535704628231	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535704631177	Marionette	INFO	Listening on port 41143
+1535704631246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535714265978	geckodriver	INFO	geckodriver 0.18.0
+1535714265996	geckodriver	INFO	Listening on 127.0.0.1:43175
+1535714267226	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535714282171	Marionette	INFO	Listening on port 44437
+1535714282269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535714298777	geckodriver	INFO	geckodriver 0.18.0
+1535714298790	geckodriver	INFO	Listening on 127.0.0.1:50231
+1535714299906	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535714303033	Marionette	INFO	Listening on port 41719
+1535714303120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535714337930	geckodriver	INFO	geckodriver 0.18.0
+1535714337940	geckodriver	INFO	Listening on 127.0.0.1:37233
+1535714339114	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535714342316	Marionette	INFO	Listening on port 40527
+1535714342331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535714546018	geckodriver	INFO	geckodriver 0.18.0
+1535714546025	geckodriver	INFO	Listening on 127.0.0.1:35313
+1535714547161	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535714550264	Marionette	INFO	Listening on port 45799
+1535714550273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535714605751	geckodriver	INFO	geckodriver 0.18.0
+1535714605761	geckodriver	INFO	Listening on 127.0.0.1:42245
+1535714606913	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535714609924	Marionette	INFO	Listening on port 43671
+1535714610027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535716454450	geckodriver	INFO	geckodriver 0.18.0
+1535716454456	geckodriver	INFO	Listening on 127.0.0.1:44235
+1535716455601	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535716458481	Marionette	INFO	Listening on port 41185
+1535716458520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535716506608	geckodriver	INFO	geckodriver 0.18.0
+1535716506619	geckodriver	INFO	Listening on 127.0.0.1:43741
+1535716507774	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535716510881	Marionette	INFO	Listening on port 33529
+1535716510890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535719987428	geckodriver	INFO	geckodriver 0.18.0
+1535719987436	geckodriver	INFO	Listening on 127.0.0.1:59847
+1535719988573	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535719991806	Marionette	INFO	Listening on port 33751
+1535719991886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535720066643	geckodriver	INFO	geckodriver 0.18.0
+1535720066646	geckodriver	INFO	Listening on 127.0.0.1:51339
+1535720067792	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535720070813	Marionette	INFO	Listening on port 38751
+1535720070917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535720207449	geckodriver	INFO	geckodriver 0.18.0
+1535720207455	geckodriver	INFO	Listening on 127.0.0.1:53657
+1535720208600	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535720211624	Marionette	INFO	Listening on port 35171
+1535720211710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535720623602	geckodriver	INFO	geckodriver 0.18.0
+1535720623610	geckodriver	INFO	Listening on 127.0.0.1:60741
+1535720624754	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535720627798	Marionette	INFO	Listening on port 44225
+1535720627865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535720653178	geckodriver	INFO	geckodriver 0.18.0
+1535720653184	geckodriver	INFO	Listening on 127.0.0.1:45443
+1535720654325	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535720657273	Marionette	INFO	Listening on port 37403
+1535720657338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535724416500	geckodriver	INFO	geckodriver 0.18.0
+1535724416509	geckodriver	INFO	Listening on 127.0.0.1:38173
+1535724417641	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535724420703	Marionette	INFO	Listening on port 39281
+1535724420752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535726395730	geckodriver	INFO	geckodriver 0.18.0
+1535726395735	geckodriver	INFO	Listening on 127.0.0.1:34269
+1535726396882	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535726399959	Marionette	INFO	Listening on port 45095
+1535726399998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535726472089	geckodriver	INFO	geckodriver 0.18.0
+1535726472100	geckodriver	INFO	Listening on 127.0.0.1:32807
+1535726473247	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535726476346	Marionette	INFO	Listening on port 44023
+1535726476363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535727920489	geckodriver	INFO	geckodriver 0.18.0
+1535727920516	geckodriver	INFO	Listening on 127.0.0.1:52217
+1535727923038	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535727939607	Marionette	INFO	Listening on port 40081
+1535727939809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535727978740	geckodriver	INFO	geckodriver 0.18.0
+1535727978798	geckodriver	INFO	Listening on 127.0.0.1:53769
+1535727980978	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535727999770	Marionette	INFO	Listening on port 43443
+1535727999878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535728016299	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1535728016316	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1535728065880	geckodriver	INFO	geckodriver 0.18.0
+1535728065903	geckodriver	INFO	Listening on 127.0.0.1:51335
+1535728068142	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535728083937	Marionette	INFO	Listening on port 42915
+1535728084076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535728102047	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1535728102065	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Gdk-Message: 20:44:33.009: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1030.
+
+Gdk-Message: 20:44:33.010: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1034.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 15:14:33.010: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1034.
+
+1535728662258	geckodriver	INFO	geckodriver 0.18.0
+1535728662296	geckodriver	INFO	Listening on 127.0.0.1:60883
+1535728664699	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535728679220	Marionette	INFO	Listening on port 34349
+1535728679436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535728717064	geckodriver	INFO	geckodriver 0.18.0
+1535728717108	geckodriver	INFO	Listening on 127.0.0.1:48539
+1535728719100	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535728734604	Marionette	INFO	Listening on port 37983
+1535728734793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535728752784	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1535728752829	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 15:22:24.111: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1030.
+
+1535729054219	geckodriver	INFO	geckodriver 0.18.0
+1535729054251	geckodriver	INFO	Listening on 127.0.0.1:43573
+1535729055875	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535729068457	Marionette	INFO	Listening on port 42611
+1535729068565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535729086787	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1535729086797	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1535729250823	geckodriver	INFO	geckodriver 0.18.0
+1535729250849	geckodriver	INFO	Listening on 127.0.0.1:51519
+1535729252693	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535729264908	Marionette	INFO	Listening on port 44181
+1535729265019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535729283234	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1535729283242	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 15:50:16.279: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+1535730858756	geckodriver	INFO	geckodriver 0.18.0
+1535730858775	geckodriver	INFO	Listening on 127.0.0.1:40747
+1535730860482	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535730872735	Marionette	INFO	Listening on port 33999
+1535730872922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535730891166	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1535730891180	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 15:55:23.009: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 15:55:23.012: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+1535731574062	geckodriver	INFO	geckodriver 0.18.0
+1535731574098	geckodriver	INFO	Listening on 127.0.0.1:55549
+1535731575456	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535731591829	Marionette	INFO	Listening on port 38631
+1535731591980	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5836, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535732874843	geckodriver	INFO	geckodriver 0.18.0
+1535732874847	geckodriver	INFO	Listening on 127.0.0.1:32895
+1535732875991	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535732879167	Marionette	INFO	Listening on port 38919
+1535732879214	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 12682, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535732931581	geckodriver	INFO	geckodriver 0.18.0
+1535732931589	geckodriver	INFO	Listening on 127.0.0.1:36127
+1535732932727	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535732936143	Marionette	INFO	Listening on port 46867
+1535732936242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535732992465	geckodriver	INFO	geckodriver 0.18.0
+1535732992468	geckodriver	INFO	Listening on 127.0.0.1:44813
+1535732993609	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535732997678	Marionette	INFO	Listening on port 33005
+1535732997732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535733267414	geckodriver	INFO	geckodriver 0.18.0
+1535733267421	geckodriver	INFO	Listening on 127.0.0.1:54519
+1535733268572	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535733271708	Marionette	INFO	Listening on port 44483
+1535733271784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535733364868	geckodriver	INFO	geckodriver 0.18.0
+1535733364872	geckodriver	INFO	Listening on 127.0.0.1:53893
+1535733366021	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535733369144	Marionette	INFO	Listening on port 44931
+1535733369238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535733391923	geckodriver	INFO	geckodriver 0.18.0
+1535733391927	geckodriver	INFO	Listening on 127.0.0.1:40751
+1535733393075	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535733396105	Marionette	INFO	Listening on port 36315
+1535733396185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535733580653	geckodriver	INFO	geckodriver 0.18.0
+1535733580660	geckodriver	INFO	Listening on 127.0.0.1:56445
+1535733581805	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535733584929	Marionette	INFO	Listening on port 45281
+1535733585019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535733848630	geckodriver	INFO	geckodriver 0.18.0
+1535733848641	geckodriver	INFO	Listening on 127.0.0.1:34517
+1535733849769	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535733852724	Marionette	INFO	Listening on port 44285
+1535733852782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535733918483	geckodriver	INFO	geckodriver 0.18.0
+1535733918490	geckodriver	INFO	Listening on 127.0.0.1:59375
+1535733919636	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535733923130	Marionette	INFO	Listening on port 36801
+1535733923158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535733977710	geckodriver	INFO	geckodriver 0.18.0
+1535733977714	geckodriver	INFO	Listening on 127.0.0.1:50697
+1535733978837	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535733981839	Marionette	INFO	Listening on port 46679
+1535733981851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535734203317	geckodriver	INFO	geckodriver 0.18.0
+1535734203323	geckodriver	INFO	Listening on 127.0.0.1:34427
+1535734204457	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535734207497	Marionette	INFO	Listening on port 33853
+1535734207573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535734267291	geckodriver	INFO	geckodriver 0.18.0
+1535734267300	geckodriver	INFO	Listening on 127.0.0.1:42327
+1535734268438	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535734271543	Marionette	INFO	Listening on port 37649
+1535734271556	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17680, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535734359470	geckodriver	INFO	geckodriver 0.18.0
+1535734359477	geckodriver	INFO	Listening on 127.0.0.1:50833
+1535734360618	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535734363882	Marionette	INFO	Listening on port 33457
+1535734363932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535734405037	geckodriver	INFO	geckodriver 0.18.0
+1535734405044	geckodriver	INFO	Listening on 127.0.0.1:57051
+1535734406190	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535734409261	Marionette	INFO	Listening on port 43647
+1535734409308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535734438452	geckodriver	INFO	geckodriver 0.18.0
+1535734438456	geckodriver	INFO	Listening on 127.0.0.1:33335
+1535734439601	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535734442628	Marionette	INFO	Listening on port 33495
+1535734442725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535734492370	geckodriver	INFO	geckodriver 0.18.0
+1535734492381	geckodriver	INFO	Listening on 127.0.0.1:46241
+1535734493525	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535734496455	Marionette	INFO	Listening on port 43173
+1535734496552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535875594175	geckodriver	INFO	geckodriver 0.18.0
+1535875594229	geckodriver	INFO	Listening on 127.0.0.1:53129
+1535875595430	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535875608641	Marionette	INFO	Listening on port 45829
+1535875608742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535875638313	geckodriver	INFO	geckodriver 0.18.0
+1535875638318	geckodriver	INFO	Listening on 127.0.0.1:56175
+1535875639459	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535875642782	Marionette	INFO	Listening on port 43183
+1535875642896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535875708608	geckodriver	INFO	geckodriver 0.18.0
+1535875708616	geckodriver	INFO	Listening on 127.0.0.1:47111
+1535875709750	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535875712873	Marionette	INFO	Listening on port 32811
+1535875712972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535875819758	geckodriver	INFO	geckodriver 0.18.0
+1535875819762	geckodriver	INFO	Listening on 127.0.0.1:52945
+1535875820901	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535875823964	Marionette	INFO	Listening on port 36599
+1535875824022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535876203506	geckodriver	INFO	geckodriver 0.18.0
+1535876203515	geckodriver	INFO	Listening on 127.0.0.1:60407
+1535876204654	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535876209293	Marionette	INFO	Listening on port 33085
+1535876209369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535876292265	geckodriver	INFO	geckodriver 0.18.0
+1535876292275	geckodriver	INFO	Listening on 127.0.0.1:39953
+1535876293428	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535876297092	Marionette	INFO	Listening on port 36783
+1535876297148	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 9595, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1535876823695	geckodriver	INFO	geckodriver 0.18.0
+1535876823703	geckodriver	INFO	Listening on 127.0.0.1:56741
+1535876824848	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535876827923	Marionette	INFO	Listening on port 44479
+1535876827962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535876915187	geckodriver	INFO	geckodriver 0.18.0
+1535876915194	geckodriver	INFO	Listening on 127.0.0.1:42933
+1535876916339	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535876919567	Marionette	INFO	Listening on port 40667
+1535876919655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535878567017	geckodriver	INFO	geckodriver 0.18.0
+1535878567028	geckodriver	INFO	Listening on 127.0.0.1:48847
+1535878568172	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535878571154	Marionette	INFO	Listening on port 38539
+1535878571186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535878742989	geckodriver	INFO	geckodriver 0.18.0
+1535878742992	geckodriver	INFO	Listening on 127.0.0.1:48535
+1535878744119	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535878747297	Marionette	INFO	Listening on port 44991
+1535878747333	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535879077540	geckodriver	INFO	geckodriver 0.18.0
+1535879077544	geckodriver	INFO	Listening on 127.0.0.1:46941
+1535879078687	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535879082351	Marionette	INFO	Listening on port 36883
+1535879082404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535879100510	geckodriver	INFO	geckodriver 0.18.0
+1535879100515	geckodriver	INFO	Listening on 127.0.0.1:33041
+1535879101678	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535879104954	Marionette	INFO	Listening on port 41163
+1535879105001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535879734147	geckodriver	INFO	geckodriver 0.18.0
+1535879734155	geckodriver	INFO	Listening on 127.0.0.1:60129
+1535879735309	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535879738622	Marionette	INFO	Listening on port 34943
+1535879738720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535879760097	geckodriver	INFO	geckodriver 0.18.0
+1535879760102	geckodriver	INFO	Listening on 127.0.0.1:39193
+1535879761261	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535879764319	Marionette	INFO	Listening on port 32861
+1535879764377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535880177126	geckodriver	INFO	geckodriver 0.18.0
+1535880177129	geckodriver	INFO	Listening on 127.0.0.1:38219
+1535880178276	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535880181294	Marionette	INFO	Listening on port 43251
+1535880181387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535880266905	geckodriver	INFO	geckodriver 0.18.0
+1535880266912	geckodriver	INFO	Listening on 127.0.0.1:34369
+1535880268064	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535880271193	Marionette	INFO	Listening on port 43855
+1535880271275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535880544715	geckodriver	INFO	geckodriver 0.18.0
+1535880544718	geckodriver	INFO	Listening on 127.0.0.1:55473
+1535880545865	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535880548916	Marionette	INFO	Listening on port 36927
+1535880548985	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535880627768	geckodriver	INFO	geckodriver 0.18.0
+1535880627773	geckodriver	INFO	Listening on 127.0.0.1:55699
+1535880628913	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535880632104	Marionette	INFO	Listening on port 37939
+1535880632126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535880795081	geckodriver	INFO	geckodriver 0.18.0
+1535880795091	geckodriver	INFO	Listening on 127.0.0.1:44383
+1535880796242	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535880799344	Marionette	INFO	Listening on port 42039
+1535880799355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535880942066	geckodriver	INFO	geckodriver 0.18.0
+1535880942070	geckodriver	INFO	Listening on 127.0.0.1:53965
+1535880943192	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535880946340	Marionette	INFO	Listening on port 38997
+1535880946404	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535881832236	geckodriver	INFO	geckodriver 0.18.0
+1535881832239	geckodriver	INFO	Listening on 127.0.0.1:40215
+1535881833369	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535881836329	Marionette	INFO	Listening on port 41573
+1535881836388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535882833566	geckodriver	INFO	geckodriver 0.18.0
+1535882833571	geckodriver	INFO	Listening on 127.0.0.1:39901
+1535882834711	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535882837831	Marionette	INFO	Listening on port 40463
+1535882837978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535884494685	geckodriver	INFO	geckodriver 0.18.0
+1535884494703	geckodriver	INFO	Listening on 127.0.0.1:60693
+1535884495930	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535884508967	Marionette	INFO	Listening on port 41449
+1535884509083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535884561852	geckodriver	INFO	geckodriver 0.18.0
+1535884561863	geckodriver	INFO	Listening on 127.0.0.1:38285
+1535884563050	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535884566441	Marionette	INFO	Listening on port 45715
+1535884566475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535979889278	geckodriver	INFO	geckodriver 0.18.0
+1535979889296	geckodriver	INFO	Listening on 127.0.0.1:33595
+1535979890503	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535979903340	Marionette	INFO	Listening on port 41235
+1535979903451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535980494704	geckodriver	INFO	geckodriver 0.18.0
+1535980494720	geckodriver	INFO	Listening on 127.0.0.1:57999
+1535980496317	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535980505768	Marionette	INFO	Listening on port 35489
+1535980505919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1535981425485	geckodriver	INFO	geckodriver 0.18.0
+1535981425491	geckodriver	INFO	Listening on 127.0.0.1:56095
+1535981426941	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1535981434595	Marionette	INFO	Listening on port 35451
+1535981434712	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 5293, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-oscv9o/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1536127130654	geckodriver	INFO	geckodriver 0.18.0
+1536127130717	geckodriver	INFO	Listening on 127.0.0.1:52529
+1536127131902	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1536127145948	Marionette	INFO	Listening on port 35749
+1536127146061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536127436847	geckodriver	INFO	geckodriver 0.18.0
+1536127436859	geckodriver	INFO	Listening on 127.0.0.1:48961
+1536127438014	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1536127441644	Marionette	INFO	Listening on port 41085
+1536127441731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536131491512	geckodriver	INFO	geckodriver 0.18.0
+1536131491518	geckodriver	INFO	Listening on 127.0.0.1:44281
+1536131492662	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1536131495741	Marionette	INFO	Listening on port 34793
+1536131495788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536134773576	geckodriver	INFO	geckodriver 0.18.0
+1536134773584	geckodriver	INFO	Listening on 127.0.0.1:55291
+1536134774736	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1536134777863	Marionette	INFO	Listening on port 33285
+1536134777958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536134825507	geckodriver	INFO	geckodriver 0.18.0
+1536134825512	geckodriver	INFO	Listening on 127.0.0.1:35425
+1536134826661	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1536134829813	Marionette	INFO	Listening on port 34205
+1536134829878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1536135108433	geckodriver	INFO	geckodriver 0.18.0
+1536135108439	geckodriver	INFO	Listening on 127.0.0.1:53785
+1536135109585	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1536135112678	Marionette	INFO	Listening on port 40291
+1536135112700	Marionette	WARN	TLS certificate errors will be ignored for this session
