@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+ <html lang="en">
+
+ <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+     <meta name="description" content="">
+     <meta name="author" content="">
+     <link rel="icon" href="../../favicon.ico">
+
+     <title>Essence </title>
+
+
+     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+
+
+
+
+
+</head>
+
+ <body>
+ <script>
+     $(document).ready(function(){
+     if(document.cookie=="yes"){
+     if (typeof(Storage) != "undefined") {
+    document.getElementById('result').innerHTML = localStorage.getItem("result");
+    document.getElementById('out').innerHTML = localStorage.getItem("out");
+    console.log(localStorage.getItem("out"));
+    if(localStorage.getItem("out")==null){
+        $('#out').hide();
+        }
+    }
+    else{
+    document.getElementById("result").innerHTML = "Sorry, your browser does not support Web Storage...";
+    }
+   }else{
+   $('#out').hide();
+   }
+
+
+ $('#load').hide();
+
+ });
+
+
+
+
+ </script>
+ <script>
+     $(function() {
+    $('#ss').on('click',function(e) {
+        $('body').trigger('click');
+        e.preventDefault();
+        $('#out').hide();
+        $('#load').show();
+
+
+        $.ajax({
+            url: '/req',
+            data: $('form').serialize(),
+            type: 'POST',
+
+
+            success: function(response) {
+            var out=$.parseJSON(response);
+                console.log(out.suggestion);
+                if(out.status=='NOTOK'){
+                    document.getElementById('out').innerHTML = 'Connection failed!';
+                   }
+                else{
+                if(out.suggestion.length!=0)
+                 $('#out').show();
+                document.getElementById('out').innerHTML = 'suggested:'+out.suggestion;
+                document.getElementById('result').innerHTML=out.result;
+                document.getElementById('sfcnt').remove();
+                document.getElementById('hdtb').remove();
+                 document.getElementById('searchform').remove();
+                 document.getElementById('appbar').remove();
+                 document.getElementsByClassName('sfbgx')[0].remove();
+
+                if (typeof(Storage) != "undefined") {
+
+                        localStorage.setItem("result", $('#result').html() );
+                        localStorage.setItem("out", $('#out').html() );
+                        document.cookie="yes";
+
+
+               }
+               else{
+                    document.getElementById("result").innerHTML = "Sorry, your browser does not support Web Storage...";
+                    }
+
+
+                }
+                $('#load').hide();
+                return false;
+
+            },
+            error: function(error) {
+                console.log(error);
+                $('#load').hide();
+
+            }
+        });
+    });
+});
+
+ </script>
+ <style>
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+     -webkit-box-shadow: 0 0 0px 1000px #000 inset;
+     transition: background-color 5000s ease-in-out 0s;
+}
+.coll { position: relative; width:240px; }
+input:focus, textarea:focus {
+    outline: none;
+}
+.form-control:hover{
+box-shadow: 10px 10px 10px 10px rgba(0,0,0,0.24), 0 8px 25px 0 rgba(0,0,0,0.19);
+
+}
+.coll .button{ position: absolute; top: 6px; right: -400px;}
+.oot:hover{
+box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24), 0 8px 25px 0 rgba(0,0,0,0.19);
+cursor: pointer;
+}
+ </style>
+
+     <div class="container" align="left" style="  margin-left: 150px;​​​">
+
+         <form  action="/" method="post" role="form">
+             <br>
+<h2 style="color:#659ba0; position:absolute;left:52px; margin-top:4px;" >Essence </h2>
+             <div class="coll" id="coll">
+
+             <input id="inp" name="inp" align="center"style=" border:2px #659ba0;text-indent: 6px; width:650px  ;height:40px; border:0;border-radius: 3px;box-shadow: 1px 1px 1px 1px #dcdfe5;" class="form-control" autocomplete="on" placeholder=" Your Question here" required autofocus>
+
+                 <input id="ss" class='button' type="image"   src="static/search.png" width=25>
+            </div>
+
+            <br>
+<div  class='oot' id="out" align="left" style="margin-top:5px;clear:both;background:#dde0db;width:fit-content;height:fit-content;border: 2px solid #d4dbdb;border-radius: 7px;margin-left:0px;"></div>
+
+<img src=" /static/ll.gif" align="center" style=" position:absolute; height:8%;width:4%;margin-left:260px;margin-top:5px;" id="load">
+         </form>
+
+     </div>
+ <br>
+ <div id ="result"  style="clear:both;position:relative;zoom:1 " ></div>
+
+ </body>
+
+ </html>
