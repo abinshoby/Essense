@@ -1024,3 +1024,1821 @@ Gdk-Message: 15:55:23.012: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource
 1536135109585	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
 1536135112678	Marionette	INFO	Listening on port 40291
 1536135112700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540367062295	geckodriver	INFO	geckodriver 0.18.0
+1540367062347	geckodriver	INFO	Listening on 127.0.0.1:41105
+1540367063529	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540367077745	Marionette	INFO	Listening on port 45243
+1540367077938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540367078001	Marionette	DEBUG	[2147483649] Frame script loaded
+1540367078117	Marionette	DEBUG	[2147483649] Frame script registered
+1540367078143	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540367081997	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540367083492	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540367087244	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540367141936	geckodriver	INFO	geckodriver 0.18.0
+1540367141944	geckodriver	INFO	Listening on 127.0.0.1:44987
+1540367143088	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540367146155	Marionette	INFO	Listening on port 40187
+1540367146209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540367146256	Marionette	DEBUG	[2147483649] Frame script loaded
+1540367146257	Marionette	DEBUG	[2147483649] Frame script registered
+1540367146278	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540367148259	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540367149253	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540367152751	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540369182299	geckodriver	INFO	geckodriver 0.18.0
+1540369182308	geckodriver	INFO	Listening on 127.0.0.1:43153
+1540369183450	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540369187015	Marionette	INFO	Listening on port 38283
+1540369187065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540369187127	Marionette	DEBUG	[2147483649] Frame script loaded
+1540369187128	Marionette	DEBUG	[2147483649] Frame script registered
+1540369187141	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540369203194	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540369224489	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=aa&oq=aa&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540369234215	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1540369239771	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=aa&oq=aa&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1540369553407	geckodriver	INFO	geckodriver 0.18.0
+1540369553412	geckodriver	INFO	Listening on 127.0.0.1:58003
+1540369554605	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540369557968	Marionette	INFO	Listening on port 40015
+1540369558029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540369558077	Marionette	DEBUG	[2147483649] Frame script loaded
+1540369558083	Marionette	DEBUG	[2147483649] Frame script registered
+1540369558103	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540369569850	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540369571494	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quira&oq=quira&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540369588386	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Gdk-Message: 13:56:45.195: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1540369780456	geckodriver	INFO	geckodriver 0.18.0
+1540369780460	geckodriver	INFO	Listening on 127.0.0.1:35347
+1540369781621	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540369784775	Marionette	INFO	Listening on port 33737
+1540369784835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540369784897	Marionette	DEBUG	[2147483649] Frame script loaded
+1540369784908	Marionette	DEBUG	[2147483649] Frame script registered
+1540369784943	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540369788503	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540369790930	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540369802132	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540914531351	geckodriver	INFO	geckodriver 0.18.0
+1540914531437	geckodriver	INFO	Listening on 127.0.0.1:58843
+1540914532232	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540914544380	Marionette	INFO	Listening on port 36121
+1540914544498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540914544572	Marionette	DEBUG	[2147483649] Frame script loaded
+1540914544675	Marionette	DEBUG	[2147483649] Frame script registered
+1540914544707	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540914546905	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540914547360	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540914548435	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540916066569	geckodriver	INFO	geckodriver 0.18.0
+1540916066575	geckodriver	INFO	Listening on 127.0.0.1:50813
+1540916067695	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540916070741	Marionette	INFO	Listening on port 35129
+1540916070830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540916070883	Marionette	DEBUG	[2147483649] Frame script loaded
+1540916070884	Marionette	DEBUG	[2147483649] Frame script registered
+1540916070915	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540916072515	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540916073486	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540916074678	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 12451, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540916149548	geckodriver	INFO	geckodriver 0.18.0
+1540916149553	geckodriver	INFO	Listening on 127.0.0.1:46647
+1540916150698	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540916154238	Marionette	INFO	Listening on port 42639
+1540916154311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540916154363	Marionette	DEBUG	[2147483649] Frame script loaded
+1540916154363	Marionette	DEBUG	[2147483649] Frame script registered
+1540916154414	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540916156061	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540916156691	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540916157625	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540916370177	geckodriver	INFO	geckodriver 0.18.0
+1540916370183	geckodriver	INFO	Listening on 127.0.0.1:41575
+1540916371309	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540916374301	Marionette	INFO	Listening on port 37737
+1540916374324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540916374389	Marionette	DEBUG	[2147483649] Frame script loaded
+1540916374418	Marionette	DEBUG	[2147483649] Frame script registered
+1540916374468	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540916376172	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540916376807	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540916378287	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540917018384	geckodriver	INFO	geckodriver 0.18.0
+1540917018392	geckodriver	INFO	Listening on 127.0.0.1:38183
+1540917019533	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540917022912	Marionette	INFO	Listening on port 35661
+1540917022954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540917022999	Marionette	DEBUG	[2147483649] Frame script loaded
+1540917023000	Marionette	DEBUG	[2147483649] Frame script registered
+1540917023021	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540917024964	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540917026530	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=apple&oq=apple&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540917030416	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=apple&oq=apple&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540917190048	geckodriver	INFO	geckodriver 0.18.0
+1540917190054	geckodriver	INFO	Listening on 127.0.0.1:51061
+1540917191207	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540917194136	Marionette	INFO	Listening on port 33679
+1540917194255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540917194320	Marionette	DEBUG	[2147483649] Frame script loaded
+1540917194322	Marionette	DEBUG	[2147483649] Frame script registered
+1540917194354	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540917197015	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540917198127	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=apple&oq=apple&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540917199639	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=apple&oq=apple&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540917212178	geckodriver	INFO	geckodriver 0.18.0
+1540917212182	geckodriver	INFO	Listening on 127.0.0.1:52395
+1540917213359	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540917216307	Marionette	INFO	Listening on port 34547
+1540917216375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540917216436	Marionette	DEBUG	[2147483649] Frame script loaded
+1540917216438	Marionette	DEBUG	[2147483649] Frame script registered
+1540917216455	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540917217913	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540917219235	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540917220930	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919175397	geckodriver	INFO	geckodriver 0.18.0
+1540919175407	geckodriver	INFO	Listening on 127.0.0.1:43763
+1540919176552	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540919179703	Marionette	INFO	Listening on port 37089
+1540919179804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540919179859	Marionette	DEBUG	[2147483649] Frame script loaded
+1540919179865	Marionette	DEBUG	[2147483649] Frame script registered
+1540919179883	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540919181496	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540919182139	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919183376	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919479337	geckodriver	INFO	geckodriver 0.18.0
+1540919479348	geckodriver	INFO	Listening on 127.0.0.1:46515
+1540919480462	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540919483505	Marionette	INFO	Listening on port 39799
+1540919483573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540919483621	Marionette	DEBUG	[2147483649] Frame script loaded
+1540919483622	Marionette	DEBUG	[2147483649] Frame script registered
+1540919483642	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540919485249	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540919486518	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919487289	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919545291	geckodriver	INFO	geckodriver 0.18.0
+1540919545297	geckodriver	INFO	Listening on 127.0.0.1:39347
+1540919546438	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540919549444	Marionette	INFO	Listening on port 41465
+1540919549452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540919549516	Marionette	DEBUG	[2147483649] Frame script loaded
+1540919549517	Marionette	DEBUG	[2147483649] Frame script registered
+1540919549542	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540919551087	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540919551751	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919552988	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919608880	geckodriver	INFO	geckodriver 0.18.0
+1540919608888	geckodriver	INFO	Listening on 127.0.0.1:52307
+1540919610024	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540919612994	Marionette	INFO	Listening on port 43073
+1540919613043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540919613099	Marionette	DEBUG	[2147483649] Frame script loaded
+1540919613118	Marionette	DEBUG	[2147483649] Frame script registered
+1540919613149	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540919614603	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540919615835	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919617448	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919654486	geckodriver	INFO	geckodriver 0.18.0
+1540919654491	geckodriver	INFO	Listening on 127.0.0.1:56315
+1540919655639	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540919658636	Marionette	INFO	Listening on port 34163
+1540919658651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540919658700	Marionette	DEBUG	[2147483649] Frame script loaded
+1540919658701	Marionette	DEBUG	[2147483649] Frame script registered
+1540919658768	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540919660353	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540919661682	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919662576	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919691919	geckodriver	INFO	geckodriver 0.18.0
+1540919691924	geckodriver	INFO	Listening on 127.0.0.1:54065
+1540919693068	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540919696080	Marionette	INFO	Listening on port 34847
+1540919696191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540919696268	Marionette	DEBUG	[2147483649] Frame script loaded
+1540919696275	Marionette	DEBUG	[2147483649] Frame script registered
+1540919696297	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540919697097	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540919697689	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919698524	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 22606, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540919851153	geckodriver	INFO	geckodriver 0.18.0
+1540919851162	geckodriver	INFO	Listening on 127.0.0.1:50701
+1540919852303	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540919855247	Marionette	INFO	Listening on port 33881
+1540919855321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540919855368	Marionette	DEBUG	[2147483649] Frame script loaded
+1540919855369	Marionette	DEBUG	[2147483649] Frame script registered
+1540919855414	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540919857951	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540919858105	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540919859175	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540921370617	geckodriver	INFO	geckodriver 0.18.0
+1540921370623	geckodriver	INFO	Listening on 127.0.0.1:39725
+1540921371762	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540921374763	Marionette	INFO	Listening on port 39685
+1540921374786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540921374837	Marionette	DEBUG	[2147483649] Frame script loaded
+1540921374837	Marionette	DEBUG	[2147483649] Frame script registered
+1540921374860	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540921377679	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540921378361	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=events+nearby+my+college&oq=events+nearby+my+college&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540921379489	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=events+nearby+my+college&oq=events+nearby+my+college&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540921385471	geckodriver	INFO	geckodriver 0.18.0
+1540921385476	geckodriver	INFO	Listening on 127.0.0.1:54285
+1540921386626	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540921389483	Marionette	INFO	Listening on port 46327
+1540921389541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540921389589	Marionette	DEBUG	[2147483649] Frame script loaded
+1540921389604	Marionette	DEBUG	[2147483649] Frame script registered
+1540921389620	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540921392319	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540921392869	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=events+nearby+tkmce&oq=events+nearby+tkmce&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540921393805	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=events+nearby+tkmce&oq=events+nearby+tkmce&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540921480037	geckodriver	INFO	geckodriver 0.18.0
+1540921480044	geckodriver	INFO	Listening on 127.0.0.1:35751
+1540921481187	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540921484202	Marionette	INFO	Listening on port 43885
+1540921484303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540921484349	Marionette	DEBUG	[2147483649] Frame script loaded
+1540921484350	Marionette	DEBUG	[2147483649] Frame script registered
+1540921484401	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540921487184	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540921487725	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540921488511	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922073382	geckodriver	INFO	geckodriver 0.18.0
+1540922073385	geckodriver	INFO	Listening on 127.0.0.1:47411
+1540922074539	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922077979	Marionette	INFO	Listening on port 40281
+1540922078050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922078105	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922078106	Marionette	DEBUG	[2147483649] Frame script registered
+1540922078119	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922079839	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922080777	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=india&oq=india&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922086644	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=india&oq=india&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922215771	geckodriver	INFO	geckodriver 0.18.0
+1540922215774	geckodriver	INFO	Listening on 127.0.0.1:56439
+1540922216909	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922219974	Marionette	INFO	Listening on port 33899
+1540922220022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922220082	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922220084	Marionette	DEBUG	[2147483649] Frame script registered
+1540922220109	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922221788	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922223012	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=apple&oq=apple&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922223999	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=apple&oq=apple&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922334902	geckodriver	INFO	geckodriver 0.18.0
+1540922334910	geckodriver	INFO	Listening on 127.0.0.1:39581
+1540922336057	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922339114	Marionette	INFO	Listening on port 34791
+1540922339173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922339224	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922339227	Marionette	DEBUG	[2147483649] Frame script registered
+1540922339289	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922341988	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922342559	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922343574	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922398410	geckodriver	INFO	geckodriver 0.18.0
+1540922398414	geckodriver	INFO	Listening on 127.0.0.1:50615
+1540922399708	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922402614	geckodriver	INFO	geckodriver 0.18.0
+1540922402617	geckodriver	INFO	Listening on 127.0.0.1:51801
+1540922402750	Marionette	INFO	Listening on port 46613
+1540922402826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922402890	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922402891	Marionette	DEBUG	[2147483649] Frame script registered
+1540922402919	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922403777	geckodriver	INFO	geckodriver 0.18.0
+1540922403782	geckodriver	INFO	Listening on 127.0.0.1:59051
+1540922403838	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922403921	geckodriver	INFO	geckodriver 0.18.0
+1540922403926	geckodriver	INFO	Listening on 127.0.0.1:55587
+1540922404187	geckodriver	INFO	geckodriver 0.18.0
+1540922404191	geckodriver	INFO	Listening on 127.0.0.1:49725
+1540922404356	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922404521	geckodriver	INFO	geckodriver 0.18.0
+1540922404533	geckodriver	INFO	Listening on 127.0.0.1:44621
+1540922405002	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922405246	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922405535	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922405704	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922406081	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922406630	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922407156	geckodriver	INFO	geckodriver 0.18.0
+1540922407173	geckodriver	INFO	Listening on 127.0.0.1:57123
+1540922408345	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922411529	Marionette	INFO	Listening on port 41077
+1540922411574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922411593	Marionette	INFO	Listening on port 34309
+1540922411654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922411720	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922411733	Marionette	DEBUG	[2147483649] Frame script registered
+1540922411748	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922411758	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922411760	Marionette	DEBUG	[2147483649] Frame script registered
+1540922411790	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922413312	Marionette	INFO	Listening on port 43621
+1540922413389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922413476	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922413477	Marionette	DEBUG	[2147483649] Frame script registered
+1540922413529	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922413857	Marionette	INFO	Listening on port 45335
+1540922413917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922414013	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922414014	Marionette	DEBUG	[2147483649] Frame script registered
+1540922414059	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922414074	Marionette	INFO	Listening on port 38383
+1540922414098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922414166	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922414181	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922414210	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922414225	Marionette	DEBUG	[2147483649] Frame script registered
+1540922414307	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922414568	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922414598	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922415504	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922415576	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922415677	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 32208, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 31898, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540922416185	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922416317	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922416410	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922416700	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922416981	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922417089	Marionette	INFO	Listening on port 40351
+1540922417185	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922417254	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922417285	Marionette	DEBUG	[2147483649] Frame script registered
+1540922417318	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922417366	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 32045, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1540922417864	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 32120, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540922418123	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 32125, Chrome_ChildThread] WARNING: pipe error (33): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 32125, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540922418956	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922419363	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922420213	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922503664	geckodriver	INFO	geckodriver 0.18.0
+1540922503669	geckodriver	INFO	Listening on 127.0.0.1:54645
+1540922504784	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922508835	Marionette	INFO	Listening on port 34479
+1540922508917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922508963	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922508964	Marionette	DEBUG	[2147483649] Frame script registered
+1540922509026	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922511613	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922511745	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922512895	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922602598	geckodriver	INFO	geckodriver 0.18.0
+1540922602602	geckodriver	INFO	Listening on 127.0.0.1:50259
+1540922603757	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922607098	Marionette	INFO	Listening on port 42723
+1540922607173	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922607237	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922607239	Marionette	DEBUG	[2147483649] Frame script registered
+1540922607268	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922610167	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922610666	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922611561	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1540922645202	geckodriver	INFO	geckodriver 0.18.0
+1540922645212	geckodriver	INFO	Listening on 127.0.0.1:52947
+1540922646356	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922649419	Marionette	INFO	Listening on port 41345
+1540922649470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922649519	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922649520	Marionette	DEBUG	[2147483649] Frame script registered
+1540922649532	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922651042	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922652306	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922653265	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922724313	geckodriver	INFO	geckodriver 0.18.0
+1540922724318	geckodriver	INFO	Listening on 127.0.0.1:38065
+1540922725466	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922728590	Marionette	INFO	Listening on port 38297
+1540922728698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922728757	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922728759	Marionette	DEBUG	[2147483649] Frame script registered
+1540922728778	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922730535	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922731426	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922732294	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922885743	geckodriver	INFO	geckodriver 0.18.0
+1540922885746	geckodriver	INFO	Listening on 127.0.0.1:49707
+1540922886903	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540922889912	Marionette	INFO	Listening on port 38221
+1540922890021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540922890085	Marionette	DEBUG	[2147483649] Frame script loaded
+1540922890086	Marionette	DEBUG	[2147483649] Frame script registered
+1540922890109	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540922891741	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540922892132	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540922892853	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923090078	geckodriver	INFO	geckodriver 0.18.0
+1540923090085	geckodriver	INFO	Listening on 127.0.0.1:50353
+1540923091235	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540923094340	Marionette	INFO	Listening on port 40757
+1540923094360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540923094409	Marionette	DEBUG	[2147483649] Frame script loaded
+1540923094410	Marionette	DEBUG	[2147483649] Frame script registered
+1540923094480	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540923096317	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540923096779	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923097590	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923145812	geckodriver	INFO	geckodriver 0.18.0
+1540923145819	geckodriver	INFO	Listening on 127.0.0.1:40151
+1540923146951	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540923149982	Marionette	INFO	Listening on port 45357
+1540923150064	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540923150126	Marionette	DEBUG	[2147483649] Frame script loaded
+1540923150132	Marionette	DEBUG	[2147483649] Frame script registered
+1540923150169	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540923152104	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540923152604	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923153431	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923231054	geckodriver	INFO	geckodriver 0.18.0
+1540923231057	geckodriver	INFO	Listening on 127.0.0.1:59781
+1540923232197	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540923235164	Marionette	INFO	Listening on port 35425
+1540923235209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540923235266	Marionette	DEBUG	[2147483649] Frame script loaded
+1540923235267	Marionette	DEBUG	[2147483649] Frame script registered
+1540923235286	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540923236966	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540923237363	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923238209	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 4229, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540923274620	geckodriver	INFO	geckodriver 0.18.0
+1540923274627	geckodriver	INFO	Listening on 127.0.0.1:56689
+1540923275769	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540923278792	Marionette	INFO	Listening on port 36733
+1540923278882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540923278946	Marionette	DEBUG	[2147483649] Frame script loaded
+1540923278954	Marionette	DEBUG	[2147483649] Frame script registered
+1540923278973	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540923280708	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540923281152	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923281938	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923356266	geckodriver	INFO	geckodriver 0.18.0
+1540923356274	geckodriver	INFO	Listening on 127.0.0.1:51081
+1540923357409	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540923360523	Marionette	INFO	Listening on port 36907
+1540923360629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540923360691	Marionette	DEBUG	[2147483649] Frame script loaded
+1540923360692	Marionette	DEBUG	[2147483649] Frame script registered
+1540923360711	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540923363322	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540923363861	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923364721	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923378448	geckodriver	INFO	geckodriver 0.18.0
+1540923378453	geckodriver	INFO	Listening on 127.0.0.1:33143
+1540923379599	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540923383406	Marionette	INFO	Listening on port 41831
+1540923383429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540923383483	Marionette	DEBUG	[2147483649] Frame script loaded
+1540923383483	Marionette	DEBUG	[2147483649] Frame script registered
+1540923383505	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540923385151	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540923385579	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923386391	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923457719	geckodriver	INFO	geckodriver 0.18.0
+1540923457724	geckodriver	INFO	Listening on 127.0.0.1:39563
+1540923458874	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540923461851	Marionette	INFO	Listening on port 45753
+1540923461887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540923461935	Marionette	DEBUG	[2147483649] Frame script loaded
+1540923461935	Marionette	DEBUG	[2147483649] Frame script registered
+1540923461950	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540923463374	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540923463814	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923464700	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923783282	geckodriver	INFO	geckodriver 0.18.0
+1540923783291	geckodriver	INFO	Listening on 127.0.0.1:56061
+1540923784433	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540923787582	Marionette	INFO	Listening on port 43437
+1540923787648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540923787707	Marionette	DEBUG	[2147483649] Frame script loaded
+1540923787734	Marionette	DEBUG	[2147483649] Frame script registered
+1540923787763	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540923789320	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540923789945	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923792058	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923805010	geckodriver	INFO	geckodriver 0.18.0
+1540923805021	geckodriver	INFO	Listening on 127.0.0.1:54999
+1540923806161	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540923809475	Marionette	INFO	Listening on port 35615
+1540923809583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540923809638	Marionette	DEBUG	[2147483649] Frame script loaded
+1540923809639	Marionette	DEBUG	[2147483649] Frame script registered
+1540923809655	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540923811440	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540923811964	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923813270	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 6870, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540923866868	geckodriver	INFO	geckodriver 0.18.0
+1540923866871	geckodriver	INFO	Listening on 127.0.0.1:53793
+1540923868056	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540923871078	Marionette	INFO	Listening on port 37649
+1540923871199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540923871262	Marionette	DEBUG	[2147483649] Frame script loaded
+1540923871263	Marionette	DEBUG	[2147483649] Frame script registered
+1540923871276	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540923873957	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540923874454	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540923875227	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 7088, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540965048788	geckodriver	INFO	geckodriver 0.18.0
+1540965048841	geckodriver	INFO	Listening on 127.0.0.1:41207
+1540965050379	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540965070940	Marionette	INFO	Listening on port 38861
+1540965071390	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540965071447	Marionette	DEBUG	[2147483649] Frame script loaded
+1540965071531	Marionette	DEBUG	[2147483649] Frame script registered
+1540965071550	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540965073725	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540965074778	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540965076214	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 4026, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540965494122	geckodriver	INFO	geckodriver 0.18.0
+1540965494129	geckodriver	INFO	Listening on 127.0.0.1:42923
+1540965495275	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540965498375	Marionette	INFO	Listening on port 41691
+1540965498388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540965498443	Marionette	DEBUG	[2147483649] Frame script loaded
+1540965498444	Marionette	DEBUG	[2147483649] Frame script registered
+1540965498465	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540965500074	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540965500667	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540965502018	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540965530019	geckodriver	INFO	geckodriver 0.18.0
+1540965530025	geckodriver	INFO	Listening on 127.0.0.1:32791
+1540965531175	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540965534121	Marionette	INFO	Listening on port 36797
+1540965534190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540965534244	Marionette	DEBUG	[2147483649] Frame script loaded
+1540965534257	Marionette	DEBUG	[2147483649] Frame script registered
+1540965534278	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540965535980	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540965537143	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of+this+region&oq=speciality+of+this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540965537874	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of+this+region&oq=speciality+of+this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540965552176	geckodriver	INFO	geckodriver 0.18.0
+1540965552181	geckodriver	INFO	Listening on 127.0.0.1:48305
+1540965553362	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540965556385	Marionette	INFO	Listening on port 35345
+1540965556479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540965556541	Marionette	DEBUG	[2147483649] Frame script loaded
+1540965556543	Marionette	DEBUG	[2147483649] Frame script registered
+1540965556559	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540965559294	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540965559701	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540965560689	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540965590768	geckodriver	INFO	geckodriver 0.18.0
+1540965590773	geckodriver	INFO	Listening on 127.0.0.1:40465
+1540965591928	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540965595282	Marionette	INFO	Listening on port 45859
+1540965595344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540965595408	Marionette	DEBUG	[2147483649] Frame script loaded
+1540965595414	Marionette	DEBUG	[2147483649] Frame script registered
+1540965595436	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540965598952	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540965599488	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540965600911	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540965780314	geckodriver	INFO	geckodriver 0.18.0
+1540965780323	geckodriver	INFO	Listening on 127.0.0.1:38147
+1540965781471	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540965784531	Marionette	INFO	Listening on port 38765
+1540965784581	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540965784627	Marionette	DEBUG	[2147483649] Frame script loaded
+1540965784627	Marionette	DEBUG	[2147483649] Frame script registered
+1540965784652	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540965786274	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540965787499	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540965788298	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540967641462	geckodriver	INFO	geckodriver 0.18.0
+1540967641471	geckodriver	INFO	Listening on 127.0.0.1:35875
+1540967642661	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540967645852	Marionette	INFO	Listening on port 42051
+1540967645874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540967645955	Marionette	DEBUG	[2147483649] Frame script loaded
+1540967645956	Marionette	DEBUG	[2147483649] Frame script registered
+1540967645974	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540967647589	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540967648217	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540967649113	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540967688649	geckodriver	INFO	geckodriver 0.18.0
+1540967688658	geckodriver	INFO	Listening on 127.0.0.1:40111
+1540967689812	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540967694075	Marionette	INFO	Listening on port 41585
+1540967694135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540967694209	Marionette	DEBUG	[2147483649] Frame script loaded
+1540967694210	Marionette	DEBUG	[2147483649] Frame script registered
+1540967694222	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540967696878	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540967697064	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540967698140	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540971437603	geckodriver	INFO	geckodriver 0.18.0
+1540971437614	geckodriver	INFO	Listening on 127.0.0.1:56829
+1540971438782	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540971442029	Marionette	INFO	Listening on port 42349
+1540971442094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540971442140	Marionette	DEBUG	[2147483649] Frame script loaded
+1540971442151	Marionette	DEBUG	[2147483649] Frame script registered
+1540971442203	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540971443472	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540971445471	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540971457693	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540971518614	geckodriver	INFO	geckodriver 0.18.0
+1540971518626	geckodriver	INFO	Listening on 127.0.0.1:32893
+1540971519789	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540971522965	Marionette	INFO	Listening on port 46775
+1540971523010	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540971523063	Marionette	DEBUG	[2147483649] Frame script loaded
+1540971523064	Marionette	DEBUG	[2147483649] Frame script registered
+1540971523077	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540971524943	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540971526555	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540971535999	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972220433	geckodriver	INFO	geckodriver 0.18.0
+1540972220437	geckodriver	INFO	Listening on 127.0.0.1:54113
+1540972221629	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540972224852	Marionette	INFO	Listening on port 41549
+1540972224944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540972225006	Marionette	DEBUG	[2147483649] Frame script loaded
+1540972225010	Marionette	DEBUG	[2147483649] Frame script registered
+1540972225030	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540972227795	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540972228650	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972229551	geckodriver	INFO	geckodriver 0.18.0
+1540972229564	geckodriver	INFO	Listening on 127.0.0.1:57603
+1540972230721	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540972234112	Marionette	INFO	Listening on port 44207
+1540972234144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540972234199	Marionette	DEBUG	[2147483649] Frame script loaded
+1540972234200	Marionette	DEBUG	[2147483649] Frame script registered
+1540972234221	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540972235764	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=malayalam&oq=malayalam&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972236302	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540972239930	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=india&oq=india&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972244400	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=india&oq=india&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972255427	geckodriver	INFO	geckodriver 0.18.0
+1540972255433	geckodriver	INFO	Listening on 127.0.0.1:40685
+1540972256587	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540972259730	Marionette	INFO	Listening on port 39915
+1540972259799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540972259846	Marionette	DEBUG	[2147483649] Frame script loaded
+1540972259854	Marionette	DEBUG	[2147483649] Frame script registered
+1540972259868	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540972261776	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540972264943	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=kerala&oq=kerala&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972271280	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=kerala&oq=kerala&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972282542	geckodriver	INFO	geckodriver 0.18.0
+1540972282548	geckodriver	INFO	Listening on 127.0.0.1:39087
+1540972283728	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540972286836	Marionette	INFO	Listening on port 40175
+1540972286848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540972286915	Marionette	DEBUG	[2147483649] Frame script loaded
+1540972286917	Marionette	DEBUG	[2147483649] Frame script registered
+1540972286937	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540972288895	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540972292689	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=apple&oq=apple&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972299560	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=apple&oq=apple&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972331011	geckodriver	INFO	geckodriver 0.18.0
+1540972331015	geckodriver	INFO	Listening on 127.0.0.1:34005
+1540972332165	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540972335438	Marionette	INFO	Listening on port 43909
+1540972335477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540972335529	Marionette	DEBUG	[2147483649] Frame script loaded
+1540972335542	Marionette	DEBUG	[2147483649] Frame script registered
+1540972335590	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540972338436	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540972339306	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=ui&oq=ui&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972347388	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=ui&oq=ui&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972360660	geckodriver	INFO	geckodriver 0.18.0
+1540972360668	geckodriver	INFO	Listening on 127.0.0.1:50821
+1540972361786	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540972365036	Marionette	INFO	Listening on port 39477
+1540972365098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540972365147	Marionette	DEBUG	[2147483649] Frame script loaded
+1540972365149	Marionette	DEBUG	[2147483649] Frame script registered
+1540972365202	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540972367931	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540972368334	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=what+is+special&oq=what+is+special&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972374633	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=what+is+special&oq=what+is+special&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972387335	geckodriver	INFO	geckodriver 0.18.0
+1540972387341	geckodriver	INFO	Listening on 127.0.0.1:41439
+1540972388504	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540972391890	Marionette	INFO	Listening on port 44035
+1540972391934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540972391996	Marionette	DEBUG	[2147483649] Frame script loaded
+1540972391997	Marionette	DEBUG	[2147483649] Frame script registered
+1540972392017	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540972395012	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540972397220	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=news&oq=news&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972405962	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=news&oq=news&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972464028	geckodriver	INFO	geckodriver 0.18.0
+1540972464032	geckodriver	INFO	Listening on 127.0.0.1:36283
+1540972465182	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540972468504	Marionette	INFO	Listening on port 40973
+1540972468601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540972468659	Marionette	DEBUG	[2147483649] Frame script loaded
+1540972468660	Marionette	DEBUG	[2147483649] Frame script registered
+1540972468672	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540972471313	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540972473307	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=what+is+decompostion&oq=what+is+decompostion&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972479421	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=what+is+decompostion&oq=what+is+decompostion&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972516722	geckodriver	INFO	geckodriver 0.18.0
+1540972516729	geckodriver	INFO	Listening on 127.0.0.1:37553
+1540972517882	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540972520876	Marionette	INFO	Listening on port 36271
+1540972520896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540972520949	Marionette	DEBUG	[2147483649] Frame script loaded
+1540972520950	Marionette	DEBUG	[2147483649] Frame script registered
+1540972520973	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540972522818	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540972524138	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540972528811	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540974601376	geckodriver	INFO	geckodriver 0.18.0
+1540974601382	geckodriver	INFO	Listening on 127.0.0.1:56483
+1540974602538	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540974605701	Marionette	INFO	Listening on port 46047
+1540974605753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540974605801	Marionette	DEBUG	[2147483649] Frame script loaded
+1540974605802	Marionette	DEBUG	[2147483649] Frame script registered
+1540974605873	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540974608915	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540974609892	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540974615665	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540975087320	geckodriver	INFO	geckodriver 0.18.0
+1540975087325	geckodriver	INFO	Listening on 127.0.0.1:47207
+1540975088483	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540975091645	Marionette	INFO	Listening on port 42437
+1540975091697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540975091756	Marionette	DEBUG	[2147483649] Frame script loaded
+1540975091767	Marionette	DEBUG	[2147483649] Frame script registered
+1540975091793	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540975094752	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540975095781	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540975098548	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540975115148	geckodriver	INFO	geckodriver 0.18.0
+1540975115151	geckodriver	INFO	Listening on 127.0.0.1:57397
+1540975116310	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540975119733	Marionette	INFO	Listening on port 45903
+1540975119834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540975119883	Marionette	DEBUG	[2147483649] Frame script loaded
+1540975119884	Marionette	DEBUG	[2147483649] Frame script registered
+1540975119903	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540975121941	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540975123042	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540975127402	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 21909, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540975740978	geckodriver	INFO	geckodriver 0.18.0
+1540975740981	geckodriver	INFO	Listening on 127.0.0.1:48195
+1540975742134	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540975744262	geckodriver	INFO	geckodriver 0.18.0
+1540975744266	geckodriver	INFO	Listening on 127.0.0.1:51571
+1540975745205	Marionette	INFO	Listening on port 40529
+1540975745248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540975745305	Marionette	DEBUG	[2147483649] Frame script loaded
+1540975745306	Marionette	DEBUG	[2147483649] Frame script registered
+1540975745329	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540975745492	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540975748591	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540975750347	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540975750371	Marionette	INFO	Listening on port 44839
+1540975750409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540975750464	Marionette	DEBUG	[2147483649] Frame script loaded
+1540975750470	Marionette	DEBUG	[2147483649] Frame script registered
+1540975750485	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540975754409	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540975756242	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540975760354	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540975764282	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540975764310	geckodriver	INFO	geckodriver 0.18.0
+1540975764314	geckodriver	INFO	Listening on 127.0.0.1:45205
+1540975765511	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540975768688	Marionette	INFO	Listening on port 46101
+1540975768726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540975768783	Marionette	DEBUG	[2147483649] Frame script loaded
+1540975768785	Marionette	DEBUG	[2147483649] Frame script registered
+1540975768804	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540975770538	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540975772603	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540975778772	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 23698, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540976209401	geckodriver	INFO	geckodriver 0.18.0
+1540976209408	geckodriver	INFO	Listening on 127.0.0.1:51349
+1540976210562	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540976213994	Marionette	INFO	Listening on port 44391
+1540976214131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540976214184	Marionette	DEBUG	[2147483649] Frame script loaded
+1540976214185	Marionette	DEBUG	[2147483649] Frame script registered
+1540976214202	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540976215484	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540976216638	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540976220374	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540976736750	geckodriver	INFO	geckodriver 0.18.0
+1540976736760	geckodriver	INFO	Listening on 127.0.0.1:60943
+1540976737939	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540976741598	Marionette	INFO	Listening on port 46697
+1540976741651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540976741697	Marionette	DEBUG	[2147483649] Frame script loaded
+1540976741703	Marionette	DEBUG	[2147483649] Frame script registered
+1540977655366	geckodriver	INFO	geckodriver 0.18.0
+1540977655370	geckodriver	INFO	Listening on 127.0.0.1:53501
+1540977656521	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540977659705	Marionette	INFO	Listening on port 45685
+1540977659745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540977659796	Marionette	DEBUG	[2147483649] Frame script loaded
+1540977659804	Marionette	DEBUG	[2147483649] Frame script registered
+1540977659817	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540977661437	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540977661925	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540977662895	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540977812992	geckodriver	INFO	geckodriver 0.18.0
+1540977813001	geckodriver	INFO	Listening on 127.0.0.1:48963
+1540977814145	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540977817148	Marionette	INFO	Listening on port 33497
+1540977817158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540977817213	Marionette	DEBUG	[2147483649] Frame script loaded
+1540977817214	Marionette	DEBUG	[2147483649] Frame script registered
+1540977817242	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540977818879	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540977820054	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540977820950	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 27775, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540977917321	geckodriver	INFO	geckodriver 0.18.0
+1540977917325	geckodriver	INFO	Listening on 127.0.0.1:37725
+1540977918486	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540977921576	Marionette	INFO	Listening on port 46387
+1540977921610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540977921667	Marionette	DEBUG	[2147483649] Frame script loaded
+1540977921668	Marionette	DEBUG	[2147483649] Frame script registered
+1540977921681	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540977923258	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540977924524	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540977925623	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540977929193	geckodriver	INFO	geckodriver 0.18.0
+1540977929200	geckodriver	INFO	Listening on 127.0.0.1:32893
+1540977930351	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540977933444	Marionette	INFO	Listening on port 42205
+1540977933476	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540977933526	Marionette	DEBUG	[2147483649] Frame script loaded
+1540977933527	Marionette	DEBUG	[2147483649] Frame script registered
+1540977933549	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540977935258	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540977935900	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540977937019	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978133680	geckodriver	INFO	geckodriver 0.18.0
+1540978133691	geckodriver	INFO	Listening on 127.0.0.1:41233
+1540978134835	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540978137975	Marionette	INFO	Listening on port 39811
+1540978138058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540978138111	Marionette	DEBUG	[2147483649] Frame script loaded
+1540978138120	Marionette	DEBUG	[2147483649] Frame script registered
+1540978138157	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540978141567	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540978141725	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/imghp?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&oq=special+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978142489	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/imghp?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&oq=special+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978150956	geckodriver	INFO	geckodriver 0.18.0
+1540978150961	geckodriver	INFO	Listening on 127.0.0.1:52859
+1540978152120	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540978155451	Marionette	INFO	Listening on port 42199
+1540978155559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540978155628	Marionette	DEBUG	[2147483649] Frame script loaded
+1540978155629	Marionette	DEBUG	[2147483649] Frame script registered
+1540978155642	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540978158387	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540978159013	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978160197	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+[Child 29557, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540978464370	geckodriver	INFO	geckodriver 0.18.0
+1540978464379	geckodriver	INFO	Listening on 127.0.0.1:51069
+1540978465523	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540978468697	Marionette	INFO	Listening on port 33675
+1540978468739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540978468785	Marionette	DEBUG	[2147483649] Frame script loaded
+1540978468787	Marionette	DEBUG	[2147483649] Frame script registered
+1540978468800	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540978471539	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540978472439	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540978473255	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1540978477210	geckodriver	INFO	geckodriver 0.18.0
+1540978477221	geckodriver	INFO	Listening on 127.0.0.1:41945
+1540978478362	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540978481636	Marionette	INFO	Listening on port 34477
+1540978481733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540978481802	Marionette	DEBUG	[2147483649] Frame script loaded
+1540978481825	Marionette	DEBUG	[2147483649] Frame script registered
+1540978481864	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540978483314	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540978484634	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978485555	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978577991	geckodriver	INFO	geckodriver 0.18.0
+1540978578000	geckodriver	INFO	Listening on 127.0.0.1:38163
+1540978579149	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540978582438	Marionette	INFO	Listening on port 40605
+1540978582474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540978582533	Marionette	DEBUG	[2147483649] Frame script loaded
+1540978582568	Marionette	DEBUG	[2147483649] Frame script registered
+1540978582605	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540978585496	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540978586127	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978587256	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+[Child 31752, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540978636907	geckodriver	INFO	geckodriver 0.18.0
+1540978636914	geckodriver	INFO	Listening on 127.0.0.1:34943
+1540978638059	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540978641335	Marionette	INFO	Listening on port 37275
+1540978641382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540978641442	Marionette	DEBUG	[2147483649] Frame script loaded
+1540978641444	Marionette	DEBUG	[2147483649] Frame script registered
+1540978641498	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540978644118	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540978644433	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978645669	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978741792	geckodriver	INFO	geckodriver 0.18.0
+1540978741798	geckodriver	INFO	Listening on 127.0.0.1:36049
+1540978742949	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540978746000	Marionette	INFO	Listening on port 35617
+1540978746059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540978746108	Marionette	DEBUG	[2147483649] Frame script loaded
+1540978746110	Marionette	DEBUG	[2147483649] Frame script registered
+1540978746122	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540978746860	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540978747635	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978750152	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+[Child 496, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540978813247	geckodriver	INFO	geckodriver 0.18.0
+1540978813258	geckodriver	INFO	Listening on 127.0.0.1:58959
+1540978814405	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540978817972	Marionette	INFO	Listening on port 43299
+1540978818018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540978818066	Marionette	DEBUG	[2147483649] Frame script loaded
+1540978818067	Marionette	DEBUG	[2147483649] Frame script registered
+1540978818089	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540978819653	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540978820268	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978821274	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978868536	geckodriver	INFO	geckodriver 0.18.0
+1540978868539	geckodriver	INFO	Listening on 127.0.0.1:39597
+1540978869716	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1540978873071	Marionette	INFO	Listening on port 44385
+1540978873135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540978873195	Marionette	DEBUG	[2147483649] Frame script loaded
+1540978873203	Marionette	DEBUG	[2147483649] Frame script registered
+1540978873227	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540978875991	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540978876589	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1540978877672	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=special+about+this+ ... ecial+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+[Child 1714, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1541429504747	geckodriver	INFO	geckodriver 0.18.0
+1541429504767	geckodriver	INFO	Listening on 127.0.0.1:43839
+1541429505972	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1541429524327	Marionette	INFO	Listening on port 46063
+1541429524619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541429524667	Marionette	DEBUG	[2147483649] Frame script loaded
+1541429524715	Marionette	DEBUG	[2147483649] Frame script registered
+1541429524734	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1541429528963	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1541429529757	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1541429530461	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1541429530780	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 4172, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1541429651934	geckodriver	INFO	geckodriver 0.18.0
+1541429651939	geckodriver	INFO	Listening on 127.0.0.1:38017
+1541429653077	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1541429656212	Marionette	INFO	Listening on port 32823
+1541429656308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541429656369	Marionette	DEBUG	[2147483649] Frame script loaded
+1541429656370	Marionette	DEBUG	[2147483649] Frame script registered
+1541429656384	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1541429658088	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1541429659147	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1541429660540	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1541429660998	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1541429724101	geckodriver	INFO	geckodriver 0.18.0
+1541429724114	geckodriver	INFO	Listening on 127.0.0.1:56579
+1541429725242	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1541429728256	Marionette	INFO	Listening on port 35231
+1541429728358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541429728425	Marionette	DEBUG	[2147483649] Frame script loaded
+1541429728426	Marionette	DEBUG	[2147483649] Frame script registered
+1541429728440	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1541429730007	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1541429731209	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1541429732361	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1541429733005	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 5098, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1541429747337	geckodriver	INFO	geckodriver 0.18.0
+1541429747340	geckodriver	INFO	Listening on 127.0.0.1:37765
+1541429748515	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1541429751604	Marionette	INFO	Listening on port 39729
+1541429751632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541429751683	Marionette	DEBUG	[2147483649] Frame script loaded
+1541429751683	Marionette	DEBUG	[2147483649] Frame script registered
+1541429751716	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1541429753232	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1541429754480	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1541429756035	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1541429756472	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=speciality+of++this+region&oq=speciality+of++this+region&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1541430040712	geckodriver	INFO	geckodriver 0.18.0
+1541430040717	geckodriver	INFO	Listening on 127.0.0.1:34011
+1541430041888	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1541430044881	Marionette	INFO	Listening on port 32969
+1541430044902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541430044955	Marionette	DEBUG	[2147483649] Frame script loaded
+1541430044956	Marionette	DEBUG	[2147483649] Frame script registered
+1541430044980	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1541430046598	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1541430047676	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+1541430049038	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1541430050239	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.co.in/search?q=quora&oq=quora&aqs=chrome.0.69i59.8573j1j8&sourceid=chrome&ie=UTF-8
+[Child 5651, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1541430617553	geckodriver	INFO	geckodriver 0.18.0
+1541430617560	geckodriver	INFO	Listening on 127.0.0.1:49247
+1541430618685	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1541430621624	Marionette	INFO	Listening on port 40401
+1541430621711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541430621765	Marionette	DEBUG	[2147483649] Frame script loaded
+1541430621766	Marionette	DEBUG	[2147483649] Frame script registered
+1541430621808	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1541430624522	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1541430624600	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/imghp?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&oq=special+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1541430626650	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/imghp?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&oq=special+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1541430839654	geckodriver	INFO	geckodriver 0.18.0
+1541430839664	geckodriver	INFO	Listening on 127.0.0.1:34829
+1541430840800	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1541430843837	Marionette	INFO	Listening on port 45979
+1541430843911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541430843965	Marionette	DEBUG	[2147483649] Frame script loaded
+1541430843967	Marionette	DEBUG	[2147483649] Frame script registered
+1541430844029	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1541430845716	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1541430845882	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/imghp?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&oq=special+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1541430847751	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/imghp?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&oq=special+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1541430850516	geckodriver	INFO	geckodriver 0.18.0
+1541430850523	geckodriver	INFO	Listening on 127.0.0.1:52835
+1541430851675	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1541430854620	Marionette	INFO	Listening on port 39077
+1541430854686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541430854743	Marionette	DEBUG	[2147483649] Frame script loaded
+1541430854744	Marionette	DEBUG	[2147483649] Frame script registered
+1541430854756	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1541430856229	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1541430856868	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=quora&oq=special+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1541430858865	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=quora&oq=special+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1541430898540	geckodriver	INFO	geckodriver 0.18.0
+1541430898543	geckodriver	INFO	Listening on 127.0.0.1:53283
+1541430899671	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1541430902726	Marionette	INFO	Listening on port 43649
+1541430902814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541430902866	Marionette	DEBUG	[2147483649] Frame script loaded
+1541430902867	Marionette	DEBUG	[2147483649] Frame script registered
+1541430902904	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1541430904440	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1541430905144	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=quora&oq=special+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1541430911939	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/search?safe=active&tbm=isch&source=hp&biw=1366&bih=638&ei=LHLZW5_pIMye9QOAz6_YCg&q=quora&oq=special+&gs_l=img.1.0.35i39k1j0l9.1980.4399.0.5731.9.9.0.0.0.0.181.1041.0j7.7.0....0...1ac.1.64.img..2.7.1038.0...0.vIIm7tH2ToI
+1543323245386	geckodriver	INFO	geckodriver 0.18.0
+1543323245690	geckodriver	INFO	Listening on 127.0.0.1:42433
+1543323246698	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543323255662	Marionette	DEBUG	Received observer notification profile-after-change
+1543323256544	Marionette	DEBUG	Received observer notification command-line-startup
+1543323256545	Marionette	DEBUG	Received observer notification nsPref:changed
+1543323256545	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543323258209	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543323262377	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543323262377	Marionette	DEBUG	Waiting for delayed startup...
+1543323262842	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543323262842	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543323262843	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543323262844	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543323262844	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543323262845	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543323262845	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543323262845	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543323262845	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543323263035	Marionette	INFO	Listening on port 40297
+1543323263035	Marionette	DEBUG	Remote service is active
+1543323263096	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:47282
+1543323263099	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543323263100	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 13:00:46.271: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1543323770453	geckodriver	INFO	geckodriver 0.18.0
+1543323770456	geckodriver	INFO	Listening on 127.0.0.1:33443
+1543323771607	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543323772122	Marionette	DEBUG	Received observer notification profile-after-change
+1543323772463	Marionette	DEBUG	Received observer notification command-line-startup
+1543323772463	Marionette	DEBUG	Received observer notification nsPref:changed
+1543323772463	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543323773280	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543323774473	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543323774473	Marionette	DEBUG	Waiting for delayed startup...
+1543323774668	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543323774669	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543323774669	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543323774670	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543323774671	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543323774671	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543323774672	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543323774672	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543323774672	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543323774728	Marionette	INFO	Listening on port 43633
+1543323774728	Marionette	DEBUG	Remote service is active
+1543323774822	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:38814
+1543323774824	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543323774825	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 13:03:30.264: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1543323832279	geckodriver	INFO	geckodriver 0.18.0
+1543323832284	geckodriver	INFO	Listening on 127.0.0.1:37235
+1543323833434	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543323833951	Marionette	DEBUG	Received observer notification profile-after-change
+1543323834226	Marionette	DEBUG	Received observer notification command-line-startup
+1543323834227	Marionette	DEBUG	Received observer notification nsPref:changed
+1543323834227	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543323835156	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543323836266	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543323836266	Marionette	DEBUG	Waiting for delayed startup...
+1543323836387	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543323836387	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543323836388	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543323836389	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543323836389	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543323836390	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543323836390	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543323836390	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543323836391	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543323836432	Marionette	INFO	Listening on port 36427
+1543323836433	Marionette	DEBUG	Remote service is active
+1543323836445	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:34328
+1543323836448	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543323836449	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+Gdk-Message: 18:34:42.725: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1543323908002	geckodriver	INFO	geckodriver 0.18.0
+1543323908006	geckodriver	INFO	Listening on 127.0.0.1:40191
+1543323909157	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543323909684	Marionette	DEBUG	Received observer notification profile-after-change
+1543323909997	Marionette	DEBUG	Received observer notification command-line-startup
+1543323909997	Marionette	DEBUG	Received observer notification nsPref:changed
+1543323909997	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543323910748	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543323911871	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543323911872	Marionette	DEBUG	Waiting for delayed startup...
+1543323911979	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543323911980	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543323911981	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543323911981	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543323911982	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543323911982	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543323911983	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543323911983	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543323911983	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543323912027	Marionette	INFO	Listening on port 37577
+1543323912028	Marionette	DEBUG	Remote service is active
+1543323912068	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:60594
+1543323912073	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543323912074	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543324060202	geckodriver	INFO	geckodriver 0.18.0
+1543324060214	geckodriver	INFO	Listening on 127.0.0.1:51795
+1543324061330	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543324061895	Marionette	DEBUG	Received observer notification profile-after-change
+1543324062229	Marionette	DEBUG	Received observer notification command-line-startup
+1543324062230	Marionette	DEBUG	Received observer notification nsPref:changed
+1543324062230	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543324063089	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543324064258	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543324064259	Marionette	DEBUG	Waiting for delayed startup...
+1543324064377	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543324064377	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543324064378	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543324064379	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543324064379	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543324064379	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543324064380	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543324064380	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543324064380	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543324064423	Marionette	INFO	Listening on port 45933
+1543324064423	Marionette	DEBUG	Remote service is active
+1543324064445	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:56762
+1543324064447	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543324064448	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+Gdk-Message: 18:38:30.861: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 13:08:30.862: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1543324131293	geckodriver	INFO	geckodriver 0.18.0
+1543324131303	geckodriver	INFO	Listening on 127.0.0.1:51227
+1543324132435	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543324132941	Marionette	DEBUG	Received observer notification profile-after-change
+1543324133241	Marionette	DEBUG	Received observer notification command-line-startup
+1543324133241	Marionette	DEBUG	Received observer notification nsPref:changed
+1543324133241	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543324134439	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543324135586	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543324135586	Marionette	DEBUG	Waiting for delayed startup...
+1543324135698	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543324135698	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543324135699	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543324135700	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543324135700	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543324135700	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543324135701	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543324135701	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543324135701	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543324135748	Marionette	INFO	Listening on port 39917
+1543324135748	Marionette	DEBUG	Remote service is active
+1543324135852	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:46564
+1543324135855	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543324135856	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 13:11:04.577: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 13:11:04.577: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1543324284863	geckodriver	INFO	geckodriver 0.18.0
+1543324284872	geckodriver	INFO	Listening on 127.0.0.1:45793
+1543324286014	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543324286517	Marionette	DEBUG	Received observer notification profile-after-change
+1543324286845	Marionette	DEBUG	Received observer notification command-line-startup
+1543324286846	Marionette	DEBUG	Received observer notification nsPref:changed
+1543324286846	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543324287630	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543324288731	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543324288731	Marionette	DEBUG	Waiting for delayed startup...
+1543324288844	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543324288844	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543324288845	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543324288846	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543324288846	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543324288847	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543324288847	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543324288847	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543324288847	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543324288889	Marionette	INFO	Listening on port 43331
+1543324288890	Marionette	DEBUG	Remote service is active
+1543324288923	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:58834
+1543324288925	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543324288925	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+Gdk-Message: 18:43:05.975: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+Gdk-Message: 18:43:05.975: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1543324433191	geckodriver	INFO	geckodriver 0.18.0
+1543324433198	geckodriver	INFO	Listening on 127.0.0.1:51493
+1543324434342	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543324434885	Marionette	DEBUG	Received observer notification profile-after-change
+1543324435186	Marionette	DEBUG	Received observer notification command-line-startup
+1543324435187	Marionette	DEBUG	Received observer notification nsPref:changed
+1543324435187	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543324436090	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543324437204	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543324437204	Marionette	DEBUG	Waiting for delayed startup...
+1543324437323	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543324437323	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543324437324	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543324437324	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543324437325	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543324437326	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543324437326	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543324437326	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543324437326	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543324437371	Marionette	INFO	Listening on port 35251
+1543324437372	Marionette	DEBUG	Remote service is active
+1543324437471	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:54990
+1543324437478	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543324437479	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+Gdk-Message: 18:44:26.464: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+Gdk-Message: 18:44:26.464: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+Gdk-Message: 18:44:26.464: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1543324485455	geckodriver	INFO	geckodriver 0.18.0
+1543324485459	geckodriver	INFO	Listening on 127.0.0.1:58089
+1543324486593	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543324487148	Marionette	DEBUG	Received observer notification profile-after-change
+1543324487446	Marionette	DEBUG	Received observer notification command-line-startup
+1543324487447	Marionette	DEBUG	Received observer notification nsPref:changed
+1543324487447	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543324488323	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543324489444	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543324489444	Marionette	DEBUG	Waiting for delayed startup...
+1543324489560	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543324489561	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543324489561	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543324489562	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543324489562	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543324489562	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543324489563	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543324489563	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543324489563	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543324489604	Marionette	INFO	Listening on port 34175
+1543324489604	Marionette	DEBUG	Remote service is active
+1543324489705	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:40834
+1543324489711	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543324489712	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 13:15:12.986: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1543324531722	geckodriver	INFO	geckodriver 0.18.0
+1543324531735	geckodriver	INFO	Listening on 127.0.0.1:54717
+1543324532872	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543324533379	Marionette	DEBUG	Received observer notification profile-after-change
+1543324533668	Marionette	DEBUG	Received observer notification command-line-startup
+1543324533668	Marionette	DEBUG	Received observer notification nsPref:changed
+1543324533668	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543324534464	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543324535792	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543324535792	Marionette	DEBUG	Waiting for delayed startup...
+1543324535963	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543324535963	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543324535964	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543324535965	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543324535965	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543324535966	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543324535966	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543324535966	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543324535966	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543324536011	Marionette	INFO	Listening on port 45173
+1543324536011	Marionette	DEBUG	Remote service is active
+1543324536081	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:51960
+1543324536083	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543324536083	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+Gdk-Message: 18:46:18.490: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 13:16:18.491: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1028.
+
+1543325024402	geckodriver	INFO	geckodriver 0.18.0
+1543325024411	geckodriver	INFO	Listening on 127.0.0.1:41815
+1543325025537	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1543325026098	Marionette	DEBUG	Received observer notification profile-after-change
+1543325026803	Marionette	DEBUG	Received observer notification command-line-startup
+1543325026803	Marionette	DEBUG	Received observer notification nsPref:changed
+1543325026803	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1543325027607	Marionette	DEBUG	Received observer notification toplevel-window-ready
+1543325028727	Marionette	DEBUG	Received observer notification sessionstore-windows-restored
+1543325028727	Marionette	DEBUG	Waiting for delayed startup...
+1543325028838	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1543325028838	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1543325028839	Marionette	DEBUG	Setting recommended pref security.turn_off_all_security_so_that_viruses_can_take_over_this_computer to true
+1543325028839	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1543325028840	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1543325028840	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1543325028840	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1543325028840	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1543325028840	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1543325028882	Marionette	INFO	Listening on port 40407
+1543325028882	Marionette	DEBUG	Remote service is active
+1543325028975	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:45968
+1543325028977	Marionette	TRACE	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1543325028978	Marionette	TRACE	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:178: ... et@chrome://marionette/content/server.js:245:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:490:9\n"},null]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+Gdk-Message: 19:02:52.687: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 13:32:52.688: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+1543325594229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1h184Q9xA0D6"
+1543325597364	Marionette	INFO	Listening on port 44249
+1543325597458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543325608233	Marionette	INFO	Stopped listening on port 44249
+[Parent 14085, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543329438117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lIwWT3PKMHdK"
+1543329442265	Marionette	INFO	Listening on port 34907
+1543329442344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543329445996	Marionette	INFO	Stopped listening on port 34907
+[Parent 9796, Gecko_IOThread] WARNING: pipe error (89): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543329721202	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YXsqE9EmSKOP"
+1543329725048	Marionette	INFO	Listening on port 43681
+1543329725114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543329728454	Marionette	INFO	Stopped listening on port 43681
+[Parent 10466, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543329944264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CRfbKk95apRS"
+1543329947313	Marionette	INFO	Listening on port 44549
+1543329947407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543329950731	Marionette	INFO	Stopped listening on port 44549
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 11063, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543330157612	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SEe1RCkJJ0AD"
+1543330161213	Marionette	INFO	Listening on port 39353
+1543330161239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543330164642	Marionette	INFO	Stopped listening on port 39353
+[Parent 11642, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543330822854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uROUsNUdQFcH"
+1543330825730	Marionette	INFO	Listening on port 32929
+1543330825772	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543330834243	Marionette	INFO	Stopped listening on port 32929
+[Parent 13330, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543331443727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sCFUm3JvjbJJ"
+1543331446706	Marionette	INFO	Listening on port 39049
+1543331446739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543331451023	Marionette	INFO	Stopped listening on port 39049
+[Parent 14849, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543332688481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ebRfvfhNmHmg"
+1543332691491	Marionette	INFO	Listening on port 43653
+1543332691595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543332696418	Marionette	INFO	Stopped listening on port 43653
+1543332878114	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PVvMqtA5tOO9"
+1543332881166	Marionette	INFO	Listening on port 33885
+1543332881275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543332886111	Marionette	INFO	Stopped listening on port 33885
+[Parent 17132, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543332904362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1kUKMNKMZEVD"
+1543332907375	Marionette	INFO	Listening on port 46593
+1543332907486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543332925151	Marionette	INFO	Stopped listening on port 46593
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 17384, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543333128871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G1QhSDX8eR6s"
+1543333131906	Marionette	INFO	Listening on port 40497
+1543333132001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543333150429	Marionette	INFO	Stopped listening on port 40497
+[Parent 18226, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543333167987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JXGOPxEVc8US"
+1543333170953	Marionette	INFO	Listening on port 36595
+1543333170997	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543333214714	Marionette	INFO	Stopped listening on port 36595
+[Parent 18475, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543333295343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NHhmedQbiHpF"
+1543333298879	Marionette	INFO	Listening on port 37741
+1543333298958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543333312191	Marionette	INFO	Stopped listening on port 37741
+[Parent 19026, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543333328699	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.irgko6BjqJYc"
+1543333331719	Marionette	INFO	Listening on port 33269
+1543333331819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543333377470	Marionette	INFO	Stopped listening on port 33269
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Child 19395, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 19272, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543333439813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Gmsqpo6MJfxF"
+1543333442765	Marionette	INFO	Listening on port 45431
+1543333442874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543333456659	Marionette	INFO	Stopped listening on port 45431
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 19566, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543333489173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iKVDvgeOuLcb"
+1543333492210	Marionette	INFO	Listening on port 35349
+1543333492332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543333508920	Marionette	INFO	Stopped listening on port 35349
+[Parent 19811, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543333685287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JfS44iBcEkTI"
+1543333688648	Marionette	INFO	Listening on port 36325
+1543333688768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543333694128	Marionette	INFO	Stopped listening on port 36325
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 20388, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543334072615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4pIVqpBKxoqd"
+1543334075801	Marionette	INFO	Listening on port 45459
+1543334075831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543334080866	Marionette	INFO	Stopped listening on port 45459
+[Parent 21920, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543334099116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SXkRaDCnmFim"
+1543334102151	Marionette	INFO	Listening on port 36159
+1543334102251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543334107103	Marionette	INFO	Stopped listening on port 36159
+[Parent 22199, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543334111106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aFXpiPuCzXmo"
+1543334114427	Marionette	INFO	Listening on port 43203
+1543334114521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543334119049	Marionette	INFO	Stopped listening on port 43203
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 22438, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543334175630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h9CwjkZDhTzC"
+1543334178639	Marionette	INFO	Listening on port 44641
+1543334178746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543334184188	Marionette	INFO	Stopped listening on port 44641
+[Parent 22683, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543334202101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wd6nyLmpLhC9"
+1543334205177	Marionette	INFO	Listening on port 42875
+1543334205212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543334209487	Marionette	INFO	Stopped listening on port 42875
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 22927, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543337388935	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fZoTXcDEWXAD"
+1543337391936	Marionette	INFO	Listening on port 33853
+1543337391953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543337397366	Marionette	INFO	Stopped listening on port 33853
+[Parent 3235, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543337638912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pTTls2iFaCxq"
+1543337642036	Marionette	INFO	Listening on port 39631
+1543337642125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543337646471	Marionette	INFO	Stopped listening on port 39631
+1543337894742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zaiQaWp9YDup"
+1543337897742	Marionette	INFO	Listening on port 34147
+1543337897753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543337903734	Marionette	INFO	Stopped listening on port 34147
+[Parent 4619, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543338615511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.plqTcNAV72Pu"
+1543338618489	Marionette	INFO	Listening on port 35949
+1543338618522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543338625769	Marionette	INFO	Stopped listening on port 35949
+[Parent 6781, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543338935345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6tcdl8kAZcem"
+1543338938398	Marionette	INFO	Listening on port 35485
+1543338938454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543338949640	Marionette	INFO	Stopped listening on port 35485
+[Parent 8442, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543340908608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X0vbpeU5vFe8"
+1543340911875	Marionette	INFO	Listening on port 42097
+1543340911924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543340916745	Marionette	INFO	Stopped listening on port 42097
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 15355, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543341597541	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.s6PkBE46mtqf"
+1543341600816	Marionette	INFO	Listening on port 44869
+1543341600853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543341608388	Marionette	INFO	Stopped listening on port 44869
+[Parent 19349, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543341741785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.REZYbtD4NxGO"
+1543341744959	Marionette	INFO	Listening on port 37369
+1543341745003	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543341749843	Marionette	INFO	Stopped listening on port 37369
+[Parent 19626, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543341781907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pCpqeQJQPCKn"
+1543341785067	Marionette	INFO	Listening on port 45235
+1543341785166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543341792118	Marionette	INFO	Stopped listening on port 45235
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 19870, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 19870, Gecko_IOThread] WARNING: pipe error (91): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543342452520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rVxHlJizusu3"
+1543342456079	Marionette	INFO	Listening on port 41417
+1543342456131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543342463988	Marionette	INFO	Stopped listening on port 41417
+[Parent 21461, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543343442712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iQfuiVglUea9"
+1543343445699	Marionette	INFO	Listening on port 36289
+1543343445730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543343450349	Marionette	INFO	Stopped listening on port 36289
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 23542, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543343461342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yrWEguy1k4qm"
+1543343464413	Marionette	INFO	Listening on port 44317
+1543343464451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543343468232	Marionette	INFO	Stopped listening on port 44317
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 23775, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543413408694	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F4toQLhlCO8C"
+1543413422375	Marionette	INFO	Listening on port 40941
+1543413422496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543413427777	Marionette	INFO	Stopped listening on port 40941
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 5389, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543413578108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u06ANoir30Uy"
+1543413581406	Marionette	INFO	Listening on port 33985
+1543413581423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543413584357	Marionette	INFO	Stopped listening on port 33985
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 5997, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543413636229	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DCdWcsZhmQUt"
+1543413639396	Marionette	INFO	Listening on port 39281
+1543413639446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543413644106	Marionette	INFO	Stopped listening on port 39281
+[Parent 6536, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543413823281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8Q9FpADeWZny"
+1543413826344	Marionette	INFO	Listening on port 33235
+1543413826453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543413830745	Marionette	INFO	Stopped listening on port 33235
+[Parent 7352, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543413928551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dBqxN1ssS33b"
+1543413931625	Marionette	INFO	Listening on port 35373
+1543413931665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543413935951	Marionette	INFO	Stopped listening on port 35373
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 7958, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543414033156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.HJHtKDgAuogL"
+1543414036298	Marionette	INFO	Listening on port 37943
+1543414036366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543414040709	Marionette	INFO	Stopped listening on port 37943
+[Parent 8512, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543417609715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6XObx1goRu2W"
+1543417612608	Marionette	INFO	Listening on port 43649
+1543417612637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543417617668	Marionette	INFO	Stopped listening on port 43649
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 16007, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543417736550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H19ItI4FB4z2"
+1543417739543	Marionette	INFO	Listening on port 43339
+1543417739566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543417744935	Marionette	INFO	Stopped listening on port 43339
+[Parent 16884, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543417790775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.icQsyMr5y3rt"
+1543417793780	Marionette	INFO	Listening on port 37743
+1543417793788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543417798366	Marionette	INFO	Stopped listening on port 37743
+[Parent 17139, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 17139, Gecko_IOThread] WARNING: pipe error (88): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543417872027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ISKtwffJecec"
+1543417875194	Marionette	INFO	Listening on port 41899
+1543417875238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543417879585	Marionette	INFO	Stopped listening on port 41899
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+[Parent 17727, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543417894787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XHA124Igoy7v"
+1543417897663	Marionette	INFO	Listening on port 42675
+1543417897697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543417901821	Marionette	INFO	Stopped listening on port 42675
+[Parent 18254, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543417935966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fhfXeIdwG5c1"
+1543417939133	Marionette	INFO	Listening on port 45775
+1543417939178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543417943673	Marionette	INFO	Stopped listening on port 45775
+[Parent 18776, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543418024525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JdI0QiNc0ngZ"
+1543418027561	Marionette	INFO	Listening on port 41079
+1543418027647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543418033761	Marionette	INFO	Stopped listening on port 41079
+[Parent 19062, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543419408426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QFXEbAABpUvQ"
+1543419411853	Marionette	INFO	Listening on port 39231
+1543419411949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543419416064	Marionette	INFO	Stopped listening on port 39231
+[Parent 22394, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543419540457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dICLi72imTSe"
+1543419543757	Marionette	INFO	Listening on port 42061
+1543419543767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543419553452	Marionette	INFO	Stopped listening on port 42061
+1543419565070	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YoHKfY6lK3U9"
+1543419568686	Marionette	INFO	Listening on port 39235
+1543419568787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543419581550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fnHw8h6VhwH0"
+1543419584843	Marionette	INFO	Listening on port 46865
+1543419584861	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 15:45:12.722: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1034.
+
+1543419934041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0QZBztpkpMwt"
+1543419937177	Marionette	INFO	Listening on port 32965
+1543419937295	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543419940972	Marionette	INFO	Stopped listening on port 32965
+[Parent 24645, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543419965512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.brzEPBdgf3d7"
+1543419968710	Marionette	INFO	Listening on port 35877
+1543419968721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543419973226	Marionette	INFO	Stopped listening on port 35877
+[Parent 25179, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543420006182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pGsurRELbgvo"
+1543420009574	Marionette	INFO	Listening on port 40205
+1543420009603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543420572238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OxmuckQgJMl7"
+1543420575352	Marionette	INFO	Listening on port 46645
+1543420575449	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543420598375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0O58Sny6hYIn"
+1543420601593	Marionette	INFO	Listening on port 38535
+1543420601692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543420672523	Marionette	INFO	Stopped listening on port 38535
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 26506, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543421071294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iHgnS1Vv8KqU"
+1543421074762	Marionette	INFO	Listening on port 33979
+1543421074808	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543421126269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.27iL1R394MIC"
+1543421129678	Marionette	INFO	Listening on port 44803
+1543421129688	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543421211087	Marionette	INFO	Stopped listening on port 33979
+[Parent 27431, Gecko_IOThread] WARNING: pipe error (68): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543421225447	Marionette	INFO	Stopped listening on port 44803
+[Parent 27755, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+JavaScript error: resource://gre/modules/PushServiceWebSocket.jsm, line 309: NS_ERROR_NOT_CONNECTED: Component returned failure code: 0x804b000c (NS_ERROR_NOT_CONNECTED) [nsIWebSocketChannel.sendMsg]
+JavaScript error: resource://gre/modules/PushServiceWebSocket.jsm, line 309: NS_ERROR_NOT_CONNECTED: Component returned failure code: 0x804b000c (NS_ERROR_NOT_CONNECTED) [nsIWebSocketChannel.sendMsg]
+Gdk-Message: 21:59:48.493: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1032.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 16:29:48.496: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1036.
+
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Sandbox: Unexpected EOF, op 2 flags 00 path /etc/localtime
+Gdk-Message: 16:29:48.496: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1036.
+
+Gdk-Message: 16:29:48.495: /usr/lib/firefox/firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :1036.
+
