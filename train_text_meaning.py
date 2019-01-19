@@ -12,7 +12,13 @@ import nltk
 from keras.preprocessing.text import Tokenizer
 from keras.utils.np_utils import to_categorical
 from keras.layers import  LSTM,  Bidirectional
-
+EMBEDDING_FILE='glove/wiki.ml.vec'#'glove/glove.6B.300d.txt
+TRAIN_FILE='data/querydata(m)f.tsv'#
+VOC_FILE='word_map_ml.json'
+MODEL_FILE="model_ml.json"
+MODEL_WEIGHT="model_ml.h5"
+MODEL_PIC='model_ml.png'
+#63 mal val  train 72.5
 def clean_str(string):
     """
     Tokenization/string cleaning for dataset
@@ -39,7 +45,7 @@ def save(encoded_docs,docs):
             word_map[w]=n
     import json
 
-    with open('word_map.json', 'w') as fp:
+    with open(VOC_FILE, 'w',encoding='utf-8') as fp:
         json.dump(word_map, fp)
 
     #print(word_map)
@@ -114,7 +120,7 @@ def train():
 
 
 
-    data_train = pd.read_csv('data/querydata.tsv', sep='\t')
+    data_train = pd.read_csv(TRAIN_FILE, sep='\t',encoding='utf-8')
 
     for idx in range(data_train.question.shape[0]):
         text = BeautifulSoup(data_train.question[idx])
@@ -139,7 +145,7 @@ def train():
 
     # load the whole embedding into memory
     embeddings_index = dict()
-    f = open('glove/glove.6B.300d.txt')
+    f = open(EMBEDDING_FILE)
     for line in f:
         values = line.split()
         word = values[0]
@@ -180,7 +186,7 @@ def train():
     print(model.summary())
     # fit the model
 
-    model.fit(padded_docs[:int(len(padded_docs)*0.8)], labels[:int(len(padded_docs)*0.8)],validation_data=(padded_docs[int(len(padded_docs)*0.8):],labels[int(len(padded_docs)*0.8):]), epochs=25, verbose=1,callbacks=[plot])
+    model.fit(padded_docs[:int(len(padded_docs)*0.8)], labels[:int(len(padded_docs)*0.8)],validation_data=(padded_docs[int(len(padded_docs)*0.8):],labels[int(len(padded_docs)*0.8):]), epochs=10, verbose=1,callbacks=[plot])
     # evaluate the model
     loss, accuracy = model.evaluate(padded_docs, labels, verbose=1)
     print('Accuracy: %f' % (accuracy * 100))
@@ -188,13 +194,13 @@ def train():
 
 
     model_json = model.to_json()
-    with open("model.json", "w") as json_file:
+    with open(MODEL_FILE, "w") as json_file:
         json_file.write(model_json)
     # serialize weights to HDF5
-    model.save_weights("model.h5",overwrite=True)
+    model.save_weights(MODEL_WEIGHT,overwrite=True)
     print("Saved model to disk")
     from keras.utils import plot_model
-    plot_model(model, to_file='model.png')
+    plot_model(model, to_file=MODEL_PIC)
     print(padded_docs)
     pred=model.predict(padded_docs)
     print(pred)

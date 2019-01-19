@@ -97,7 +97,7 @@ def req():
     inp =  request.form['inp'];
     if(len(inp)>0):
         pr=predict([inp.strip()],model,word_map,data_train)
-        if(pr=="that one"):
+        if(pr=='അത്'):
             pr=inp.strip()
         html=scrap_search(pr)
         if(html==-1):

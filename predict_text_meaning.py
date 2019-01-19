@@ -7,27 +7,34 @@ import pandas as pd
 import os
 from keras.models import model_from_json
 import nltk
+EMBEDDING_FILE='glove/wiki.ml.vec'#glove.6B.300d.txt'
+TRAIN_FILE='data/querydata(m)f.tsv'
+VOC_FILE='word_map_ml.json'
+MODEL_FILE="model_ml.json"
+MODEL_WEIGHT="model_ml.h5"
+MODEL_PIC='model_ml.png'
+SUGGEST_DATA='data/querydata_to_be_suggested(m)f.tsv'
 
 os.environ['KERAS_BACKEND'] = 'theano'
 
 
 def load_map():
     import json
-    with open('word_map.json', 'r') as fp:
+    with open(VOC_FILE, 'r',encoding='utf-8') as fp:
         word_map = json.load(fp)
     #print(word_map)
     return word_map
 def load_model():
-    json_file = open('model.json', 'r')
+    json_file = open(MODEL_FILE, 'r')
     loaded_model_json = json_file.read()
     json_file.close()
     model = model_from_json(loaded_model_json)
     # load weights into new model
-    model.load_weights("model.h5")
+    model.load_weights(MODEL_WEIGHT)
     print("Loaded model from disk")
     return model
 def load_data():
-    data_train = pd.read_csv('data/querydata_to_be_suggested.tsv', sep='\t')
+    data_train = pd.read_csv(SUGGEST_DATA, sep='\t',encoding='utf-8')
     return data_train
 def predict(text,model,word_map,data_train):
 
